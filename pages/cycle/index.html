@@ -1,0 +1,51 @@
+---
+layout: default
+title: Cycle The World
+---
+<div class="container">
+    <h1>Alex Cycles the World</h1>
+
+    <div id="container">
+        <script src="scripts/raphael-min2.1.js"></script>
+        <script src="scripts/paths.js"></script>
+        <script>
+const runIn = ['GB', 'CA', 'DE', 'NL', 'ES', 'FR'];
+var R = Raphael("container");
+R.setViewBox(0,0,1000,500,true);
+R.setSize('100%','60%');  
+const notRun = {
+    "fill": "#d3d3d3",
+    "stroke": "#fff",
+    "stroke-opacity": "1",
+    "stroke-linejoin": "round",
+    "stroke-miterlimit": "4",
+    "stroke-width": "0.75",
+    "stroke-dasharray": "none"
+};
+
+const run = {
+    "fill": "#8e44ad",
+    "stroke": "#fff",
+    "stroke-opacity": "1",
+    "stroke-linejoin": "round",
+    "stroke-miterlimit": "4",
+    "stroke-width": "0.75",
+    "stroke-dasharray": "none"
+};
+
+for (var state in usMap) {
+    if (runIn.indexOf(state) >= 0) {
+        R.path(usMap[state]['path']).attr(run);
+    } else {
+        R.path(usMap[state]['path']).attr(notRun);
+    }
+}
+        </script>
+    </div>
+
+    {% capture my-include %}{% include cycle.md %}{% endcapture %}
+    {{ my-include | markdownify }}
+
+</div>
+
+

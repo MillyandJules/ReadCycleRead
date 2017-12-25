@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
-- {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
+- {name: 'World Map', folder: 'pages', file: 'map.html'}
   #- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
   #- {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
   #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
