@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'millennial-3'
 
 menu:
-- {name: 'Blog', folder: 'pages', file: 'blog.html'}
+- {name: 'Blog', folder: 'pages', file: 'blog/index.html'}
 - {name: 'Route', folder: 'pages', file: 'map.html'}
 - {name: 'Contact us', folder: 'pages', file: 'contact.html'}
 
