@@ -3,14 +3,18 @@ layout: default
 title: Home
 ---
 
-{% for post in paginator.posts %}
-
 <article>
-  <a href="{{ site.github.url }}{{ post.url }}">
+  <a href="{{ site.github.url }}/pages/blog/UK">
     <div class="featured-posts" style="background-image:url({{ site.github.url }}/assets/img/lowgear.jpg)">
       <h2><span> United Kingdom </span></h2>
     </div>
   </a>
 </article>
 
-{% endfor %}
+<article>
+  <a href="{{ site.github.url }}/pages/blog/France">
+    <div class="featured-posts" style="background-image:url(https://cdn.pixabay.com/photo/2015/10/17/23/07/flag-993627_960_720.jpg)">
+      <h2><span> France </span></h2>
+    </div>
+  </a>
+</article>
