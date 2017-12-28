@@ -2,7 +2,7 @@
 
 # jekyll-paginate configuration
 paginate:            5
-#paginate_path: "pages/blog/
+paginate_path: "pages/blog/page:num"
 
 # Build settings
 markdown:            kramdown
