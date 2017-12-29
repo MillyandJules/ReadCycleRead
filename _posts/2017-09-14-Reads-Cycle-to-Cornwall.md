@@ -4,6 +4,7 @@ title: "Practice Cycle to Cornwall"
 author: The Reads
 date: 2017-09-14
 image: lowgear.jpg
+tags: UK
 ---
 
 Milly and Jules cycled to Cornwall in September 2017, to go and see Milly's sister Lucy, and to try out some of their round-the-world gear.
