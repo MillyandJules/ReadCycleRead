@@ -13,7 +13,7 @@ social:
 - {icon: 'fab fa-twitter', link: 'https://twitter.com/millyread'}
 - {icon: 'fab fa-instagram', link: 'https://instagram.com/readcycleread'}
 - {icon: 'fas fa-envelope', link: 'mailto:julian.read@outlook.com'}
-- {icon: 'fab fa-strava', link: 'example.com'}
+- {icon: 'fab fa-strava', link: 'https://www.strava.com/athletes/5688635'}
 
 # Customize site text
 pagination:
