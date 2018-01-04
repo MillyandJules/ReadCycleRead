@@ -13,7 +13,7 @@ Milly and Jules cycled to Cornwall in September 2017, to go and see Milly's sist
 Milly testing out the lower range of her Rohloff Hubs.
 
 ![Tunnel](assets/img/lightattheendofthetunnel.jpg)
-Much needed #lightattheendofthetunnel after a long day on Dartmoor.
+Much needed #lightattheendofthetunnel after a long wet and windy day on Dartmoor.
 
 ![Waking](assets/img/goodmorning.jpg)
 Waking up in the wilderness.
