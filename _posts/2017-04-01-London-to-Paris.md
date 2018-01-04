@@ -1,6 +1,6 @@
 ---
-layout:post
-title:"London to Paris"
+layout: post
+title: "London to Paris"
 date: 2016-05-28
 image: Setting off - London_2016.jpg
 tags: UK
