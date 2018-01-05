@@ -3,7 +3,7 @@ layout: post
 title: "London to Paris"
 author: Camilla
 date: 2016-05-28
-image: "Setting\ off\ -\ London_2016.jpg"
+image: "Setting%20off%20-%20London_2016.jpg"
 tags: UK
 ---
 
