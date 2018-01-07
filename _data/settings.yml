@@ -1,7 +1,7 @@
 # Change to true for Disqus comments & add your own discus_shortname
 disqus:
-  comments: false
-  disqus_shortname: 'millennial-3'
+  comments: true
+  disqus_shortname: 'readcycleread'
 
 menu:
 - {name: 'Blog', folder: 'pages', file: 'blog/index.html'}
