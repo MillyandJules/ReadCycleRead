@@ -21,8 +21,6 @@ Chichester - Falmouth stats:
 
 What better way to put the bikes through a range of weather, ground, ups and downs, twists and turns than by following the UK's [National Cycle Route 2](https://www.sustrans.org.uk/ncn/map/route/route-2) from Chichester to Cornwall. They certainly got a test, cycling through Storm Aileen, up and down 25%+ country lanes and going off-piste through the woodlands on some pretty rocky paths. We survived to tell the tale and the pictures below are some of our favourites.  
 
-As a result we made a few gear changes including ...
-
 ![Waking](assets/img/goodmorning.jpg)
 Waking up in the wilderness.
 
@@ -34,3 +32,4 @@ The first 20%-er - only stopped 4 times!!
 ![Tunnel](assets/img/lightattheendofthetunnel.jpg)
 Much needed #lightattheendofthetunnel after a long wet and windy day on Dartmoor.
 
+  As a result we made a few gear changes including ...
