@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gear Test - Cycle to Cornwall"
+title: "The road test - Chichester to Falmouth"
 author: The Reads
 date: 2017-09-14
 image: lowgear.jpg
