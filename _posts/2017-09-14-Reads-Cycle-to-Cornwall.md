@@ -45,13 +45,13 @@ That Dartmoor day - a rare gentle slope up the top of the moor
 ![Tunnel](assets/img/lightattheendofthetunnel.jpg)
 Much needed light at the end of the tunnel after a long wet and windy day on Dartmoor
 
-![7.The Flood](assets/img/7.The Flood.jpg]
+![7.The Flood](assets/img/7.The Flood.jpg)
 What rain I hear you say...
 
 ![8.Are we there yet](assets/img/8.Are we there yet.jpg)
 A much needed cuppa at the Pendower Beach hut - not far to go now
 
-![8. St Mawes](assets/img/8. St Mawes.jpg)
+![8. St Mawes]("assets/img/8. St Mawes.jpg")
 St Mawes - made it, well just one more hill to go in Falmouth!
 
   As a result we made a few gear changes including ...
