@@ -3,44 +3,5 @@ layout: page
 title: World Map
 ---
 
-<div id="container">
-<script src="cycle/scripts/raphael-min2.1.js"></script>
-<script src="cycle/scripts/paths.js"></script>
-<script>
-    const cycledIn = ['GB', 'NZ', 'FR', 'NL'];
-    var R = Raphael("container");
-    R.setViewBox(0,0,1000,500,true);
-    R.setSize('100%','60%');  
-    const notRun = {
-        "fill": "#d3d3d3",
-        "stroke": "#fff",
-        "stroke-opacity": "1",
-        "stroke-linejoin": "round",
-        "stroke-miterlimit": "4",
-        "stroke-width": "0.75",
-        "stroke-dasharray": "none"
-    };
-
-    const run = {
-        "fill": "#8e44ad",
-        "stroke": "#fff",
-        "stroke-opacity": "1",
-        "stroke-linejoin": "round",
-        "stroke-miterlimit": "4",
-        "stroke-width": "0.75",
-        "stroke-dasharray": "none"
-    };
-
-    for (var state in usMap) {
-        if (cycledIn.indexOf(state) >= 0) {
-            R.path(usMap[state]['path']).attr(run);
-        } else {
-            R.path(usMap[state]['path']).attr(notRun);
-        }
-    }
-</script>
-</div>
-    {% capture my-include %}{% include cycle.md %}{% endcapture %}
-    {{ my-include | markdownify }}
-</div>
+<iframe src="https://www.google.com/maps/d/embed?mid=1RAe_brmby0DQpU4o5fFgIrFpfFb9onM-" width="640" height="480"></iframe>
 
