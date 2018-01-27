@@ -2,6 +2,8 @@
 
 - edit this README.md file to note down how to do anything. then it'll be shown on this page whenever you visit :)
 
+To edit welcome page - edit index.md file
+
 
 # Millennial
 
