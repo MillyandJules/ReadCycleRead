@@ -51,7 +51,7 @@ What rain I hear you say...
 ![8.Are we there yet](assets/img/8.Are we there yet.jpg)
 A much needed cuppa at the Pendower Beach hut - not far to go now
 
-![8. St Mawes]("assets/img/8.StMawes.jpg")
+![8. St Mawes](assets/img/8.StMawes.jpg)
 St Mawes - made it, well just one more hill to go in Falmouth!
 
   As a result we made a few gear changes including ...
