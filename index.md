@@ -11,7 +11,7 @@ We'll be supporting and raising funds for the [World Land Trust](http://www.worl
 
 
 
-We'll try and update the blog every few weeks, or follow us on Instgram or Strava for more regular updates. 
+We'll try and update the blog every few weeks, or follow us on Instgram or Strava for more regular updates!
 
 We'd love to hear from you all!
 
