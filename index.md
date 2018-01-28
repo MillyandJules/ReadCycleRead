@@ -11,7 +11,7 @@ After months of deliberation, compromises and many a pro/con list we have decide
 
 We'll be supporting and raising funds for the [World Land Trust](http://www.worldlandtrust.org/) as we go. The WLT is an international conservation charity, which protects the world’s most biologically important and threatened habitats, in particular by developing partnerships with local individuals, communities and organisations. We hope to visit some of their projects along the way. 
 
-For more information and to donate please visit our JustGiving page: [https://www.justgiving.com/fundraising/readcycleread](https://www.justgiving.com/fundraising/readcycleread)
+For more information and to donate please visit our JustGiving page: [justgiving.com/fundraising/readcycleread](https://www.justgiving.com/fundraising/readcycleread)
 
 We'll try and update the blog every few weeks, or follow us on [Instagram](https://www.instagram.com/readcycleread/) (@readcycleread) or [Strava](https://www.strava.com/athletes/26718658) for more regular updates.
 
