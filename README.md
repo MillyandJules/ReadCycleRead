@@ -4,7 +4,12 @@
 
 - To edit welcome page - edit index.md file
 
-- To add a country - 1st under blog - index - copy the script from -article- to -article- and edit names of country. Then back under blog - add file and name as follows Switzerland/index.html. An index file will then appear in the country file. Edit this to update the 'tag' so that the posts you write will appear under the country. The 'tag' name does not need to be the same as the country name e.g. France is 'FR'.
+- To add a country - 1st under blog - index - copy the script from `<article>` to `<article>` and edit names of country. Then back under blog - add file and name as follows Switzerland/index.html. An index file will then appear in the country file. Edit this to update the 'tag' so that the posts you write will appear under the country. The 'tag' name does not need to be the same as the country name e.g. France is 'FR'.
+
+```html
+<article>
+<\article>
+```
 
 
 # Millennial
