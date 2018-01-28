@@ -2,7 +2,9 @@
 
 - edit this README.md file to note down how to do anything. then it'll be shown on this page whenever you visit :)
 
-To edit welcome page - edit index.md file
+- To edit welcome page - edit index.md file
+
+- To add a country - 1st under blog - index - copy the script from <article> to <article> and edit names of country. Then back under blog - add file and name as follows Switzerland/index.html
 
 
 # Millennial
