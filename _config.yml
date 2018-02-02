@@ -16,8 +16,8 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Read Cycle Read"
-description:	       "Milly and Jules Cycle Around the World"
-author:              "Alex Morley"
+description:	       "Milly and Jules Cycle Towards NZ"
+author:              "Alex Morley & The Reads"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
