@@ -3,16 +3,18 @@ layout: page
 title: Gear List & Heroes
 ---
 
-# Gear List
+Gear List
+======
 
 We need to pack!! Once we do you'll get the full list below.
 
 
-# Heroes
+Heroes
+======
 
-However, we wouldn't have got this far without these awesome and inspiring tourers listed below. Far too many to thank but if you're planning a trip of your own these are some books and blogs we'd recommend:
+We would never have got this far without these awesome and inspiring cycle tourers listed below. Far too many to thank but if you're planning a trip of your own these are some books and blogs we'd recommend:
 
-## Books
+### Books:
 
   Alastair Humphreys - Mood of Future Joys + Thunder and Sunshine  
   Helen Lloyd - Desert Snow  
@@ -22,7 +24,7 @@ However, we wouldn't have got this far without these awesome and inspiring toure
   Tom Bruce - Every Inch of the Way  
   
 
-## Blogs
+### Blogs:
 
   [Caravanistan](https://caravanistan.com) - best for all visa information throughout the Stans  
   [Travelling Two](http://travellingtwo.com) - inspiring & practical blogs as well as a Bike Touring Survival Guide  
