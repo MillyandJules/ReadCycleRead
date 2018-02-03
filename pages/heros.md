@@ -1,16 +1,7 @@
 ---
 layout: page
-title: Gear List & Heroes
+title: Heroes
 ---
-
-Gear List
-======
-
-We need to pack!! Once we do you'll get the full list below.
-
-
-Heroes
-======
 
 We would never have got this far without these awesome and inspiring cycle tourers listed below. Far too many to thank but if you're planning a trip of your own these are some books and blogs we'd recommend:
 
