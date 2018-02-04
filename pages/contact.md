@@ -8,9 +8,9 @@ We'd love to hear from you whether you're planning a similar trip, en route near
 You can leave comments on the blog or contact us via:  
 
 **E-mail** - readcycleread@outlook.com  
-[**Instagram**](https://www.instagram.com/readcycleread/) - (@readcycleread)   
+[**Instagram**](https://www.instagram.com/readcycleread/) - @readcycleread   
 **Twitter** - @millyreado  
-[**Strava**](https://www.strava.com/athletes/readcycleread) - (@readcycleread) 
+[**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread 
 
 To find our more about the [**World Land Trust**](http://www.worldlandtrust.org/), our chosen charity for the year, and/or to make a donation please visit our JustGiving page:  
 
