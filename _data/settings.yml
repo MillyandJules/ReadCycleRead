@@ -7,7 +7,7 @@ menu:
 - {name: 'Blog', folder: 'pages', file: 'blog/index.html'}
 - {name: 'Route', folder: 'pages', file: 'map.html'}
 - {name: 'Gear', folder: 'pages', file: 'gearlist.html'}
-- {name: 'Heros', folder: 'pages', file: 'heros.html'}
+- {name: 'Heroes', folder: 'pages', file: 'heroes.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
