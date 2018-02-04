@@ -14,6 +14,6 @@ We'll be supporting and raising funds for the [**World Land Trust**](http://www.
 For more information and to donate please visit our JustGiving page: 
 [**justgiving.com/fundraising/readcycleread**](https://www.justgiving.com/fundraising/readcycleread)
 
-We'll try and update the blog every few weeks, or follow us on [**Instagram**](https://www.instagram.com/readcycleread/) (@readcycleread) or [**Strava**](https://www.strava.com/athletes/26718658) for more regular updates.
+We'll try and update the blog every few weeks, or follow us on [**Instagram**](https://www.instagram.com/readcycleread/) (@readcycleread) or [**Strava**](https://www.strava.com/athletes/readcycleread) for more regular updates.
 
 We'd love to hear from you all!
