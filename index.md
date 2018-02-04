@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![welcome](assets/img/ferry1.jpg)
+![welcome](assets/img/Grampians.jpg)
 
 Welcome to Read Cycle Read! 
 
