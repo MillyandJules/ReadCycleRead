@@ -13,6 +13,7 @@ We would never have got this far without these awesome and inspiring cycle toure
   Helen Lloyd - _Desert Snow_  
   Loretta Henderson - _The Big Women on Wheels Book_  
   Mike Carter - _One Man and His Bike_  
+  Rob Lilwall - _Cycling Home from Siberia_
   Tim Mulliner - _Long Ride for a Pie_  
   Tom Bruce - _Every Inch of the Way_  
   
