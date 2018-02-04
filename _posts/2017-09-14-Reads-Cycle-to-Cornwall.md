@@ -9,14 +9,16 @@ tags: UK
 
 Chichester - Falmouth stats:
 
-  **No. days**_: 8  
+  **No. days**: 8  
   **Distance**: 483 km  
   **Assent**: 6,500 m  
   **No. Punctures**: 1  
-  **Highs (J)**: Half-price pasties at the finish! 
-  **Highs (C)**: Finding a campsite with a heated pool & sauna! Also discovering I can haul 38kg up hills after 6 week off cycling.  
-  **Lows (J)**: Having the fun sapped out of Dartmoor due to bitter headwinds. 
-  **Lows (C)**: Dartmoor - rain, wind, hills & puncture.  
+  **Highs**  
+  **(J)**: Half-price pasties at the finish!  
+  **(C)**: Finding a campsite with a heated pool & sauna! Also discovering I can haul 38kg up hills after 6 week off cycling.  
+  **Lows**  
+  **(J)**: Having the fun sapped out of Dartmoor due to bitter headwinds.  
+  **(C)**: Dartmoor - rain, wind, hills & puncture.  
 
 
 What better way to put the bikes through a range of weather, ground, ups and downs, twists and turns than by following the UK's [National Cycle Route 2](https://www.sustrans.org.uk/ncn/map/route/route-2) from Chichester to Cornwall. They certainly got a test, cycling through Storm Aileen, up and down 25%+ country lanes and going off-piste through the woodlands on some pretty rocky paths. We survived to tell the tale and the pictures below are some of our favourites.
