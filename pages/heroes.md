@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Heroes
+title: "Heroes"
 ---
 
-![ ](assets/img/Superheroes.jpg)
+![Superheroes](assets/img/Superheroes.jpg)
 
 We would never have got this far without these awesome and inspiring cycle tourers listed below. Far too many to thank but if you're planning a trip of your own these are some books and blogs we'd recommend:
 
