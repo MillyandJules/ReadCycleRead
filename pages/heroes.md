@@ -24,4 +24,8 @@ We would never have got this far without these awesome and inspiring cycle toure
   [Travelling Two](http://travellingtwo.com) - inspiring & practical blogs as well as a Bike Touring Survival Guide  
   [Women on Wheels](http://solofemalecyclist.com/p/wow-women-on-wheels.html) - Truely inspiring and mad tales of women cycling solo all over the world  
   [How are you? Where are you?](http://www.howareyouwhereareyou.com) - Cycled to NZ via South America   
-  [World Spokes People](http://worldspokespeople.com) - Two kiwis cycling home 1 yr ahead of us - we can't wait to meet them and share tales back in NZ!
+  [World Spokes People](http://worldspokespeople.com) - Two kiwis cycling home 1 yr ahead of us - we can't wait to meet them and share tales back in NZ!  
+  
+### Podcasts:  
+
+[The Pursuit Zone](http://www.thepursuitzone.com/the-pursuit-zone-podcast/)  - Paul Schmid interviews adventurers from across the globe.
