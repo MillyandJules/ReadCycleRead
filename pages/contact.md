@@ -12,7 +12,7 @@ You can leave comments on the blog posts or contact us via:
 **Twitter** - @millyreado  
 [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread 
 
-To find our more about why we are raising money for the [**World Land Trust**](http://www.worldlandtrust.org/) and/or to make a donation please visit our JustGiving page:  
+To find out more about why we are raising money for the [**World Land Trust**](http://www.worldlandtrust.org/) and/or to make a donation please visit our JustGiving page:  
 
 [**justgiving.com/fundraising/readcycleread**](https://www.justgiving.com/fundraising/readcycleread)
 
