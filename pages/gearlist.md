@@ -91,5 +91,6 @@ Helmet
   Twelve spokes  
 
 ## Other
-  Food & snacks  
+  Food & snacks  
   Water bottles x 6  
+  
