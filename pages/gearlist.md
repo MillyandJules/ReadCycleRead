@@ -58,10 +58,10 @@ title: Gear List
   Flip Flops  
   Helmet  
 
-**Milly clothes:**  
-  One pair shorts for cycling  
-  One pair lycra shorts  
-  Three t-shirts  
+**Milly clothes:**  
+  One pair shorts for cycling  
+  One pair lycra shorts  
+  Three t-shirts  
   Two tank tops  
   Five pairs socks (2 long, 2 short, 1 waterproof)  
   Six pairs underwear (2 padded)  
