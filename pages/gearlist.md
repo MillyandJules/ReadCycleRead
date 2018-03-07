@@ -60,9 +60,9 @@ title: Gear List
 
 **Milly clothes:**  
   One pair shorts for cycling  
-  One pair lycra shorts  
+  One pair lycra shorts  
   Three t-shirts  
-  Two tank tops  
+  Two tank tops
   Five pairs socks (2 long, 2 short, 1 waterproof)  
   Six pairs underwear (2 padded)  
   Three bras  
@@ -70,17 +70,17 @@ title: Gear List
   Merino jumper  
   Leggings  
   Thermals (top & bottom)  
-  Bikini  
-  Gillet  
-  Down jacket (thin & thick)  
+  Bikini  
+  Gillet  
+  Down jacket (thin & thick)  
   Waterproof jacket & trousers  
-  Hat & headband  
-  Short & long gloves (+ liner)  
-  Three buffs  
+  Hat & headband  
+  Short & long gloves (+ liner)  
+  Three buffs  
   Shimano SPD cycling shoes + overshoes  
   Trainers  
-  Flip Flops  
-  Helmet  
+  Flip Flops  
+  Helmet  
 
 ## Spares 
 
