@@ -40,7 +40,7 @@ title: Gear List
 
 ## Clothes  
 
-**Jules' clothes:**    
+**Jules' clothes:**   
 Two pairs shorts for cycling  
 Two pairs lycra shorts  
 Three t-shirts  
@@ -58,9 +58,9 @@ Shimano SPD sandals
 Flip Flops  
 Helmet  
 
-**Milly clothes:**  
-  One pair shorts for cycling  
-  One pair lycra shorts  
+**Milly clothes:**  
+  One pair shorts for cycling   
+  One pair lycra shorts  
   Three t-shirts  
   Two tank tops  
   Five pairs socks (2 long, 2 short, 1 waterproof)  
