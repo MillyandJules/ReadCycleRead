@@ -8,13 +8,12 @@ title: Gear List
 
 ## Bikes
 
-Thorn Raven Tour (Milly)   
-Thorn Nomad (Jules)   
-Ortlieb panniers (4 back & 4 front - Classic)  
-Ortieb rack packs x 2  
-Ortlieb Ultimate 6 bar bags x 2  
-Click-stands x 2  
-
+  Thorn Raven Tour (Milly)  
+  Thorn Nomad (Jules)  
+  Ortlieb panniers (4 back & 4 front - Classic)  
+  Ortieb rack packs x 2  
+  Ortlieb Ultimate 6 bar bags x 2  
+  Click-stands x 2  
 
 ## Camping gear  
 
