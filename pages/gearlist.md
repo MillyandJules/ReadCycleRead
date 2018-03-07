@@ -40,11 +40,11 @@ title: Gear List
 
 ## Clothes  
 
-**Jules' clothes:**   
-  Two pairs shorts for cycling  
-  Two pairs lycra shorts   
-  Three t-shirts  
-Five pairs socks (2 long, 2 short, 1 waterproof)  
+**Jules' clothes:**  
+  Two pairs shorts for cycling  
+  Two pairs lycra shorts  
+  Three t-shirts  
+Five pairs socks (2 long, 2 short, 1 waterproof)  
 Three pairs underwear (Icebreaker)   
 Thermals (top & bottom)  
 Swimming trunks  
