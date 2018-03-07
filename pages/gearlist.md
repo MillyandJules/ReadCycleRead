@@ -7,8 +7,8 @@ title: Gear List
 
 
 ## Bikes
-
-Thorn Raven Tour (Milly)  
+f
+Thorn Raven Tour (Milly)  
 Thorn Nomad (Jules)  
 Ortlieb panniers (4 back & 4 front - Classic)  
 Ortieb rack packs x 2  
@@ -23,11 +23,11 @@ Sleeping bags (Rab & Terra Nova)  
 Sleeping mats (Mountain designs & thermorest)  
 Katadyn Varia water filter (+ Life Systems water purfication solution)  
 MSR Dragonfly  
-MSR Seagull 2 pan & lid set   
+MSR Seagull 2 pan & lid set    
 Sea to Summit folding bowl & mug set x 2   
 Titanium Sports x 2   
 Ortlieb folding wash bowl 5l  
-Lomo sit mats 
+Lomo sit mats  
 
 ## Electronics  
 
@@ -37,7 +37,7 @@ Lumie light  
 Samsung Galaxy S5 x 2  
 Cateye Adventure odometer x 2  
 DeLorme inReach SOS device  
-Garmin phoenix 3 watch
+Garmin phoenix 3 watch  
 
 ## Clothes  
 
