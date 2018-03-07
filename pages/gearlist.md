@@ -19,12 +19,12 @@ title: Gear List
 
   Tent - Terra Nova Ultra Quasar    
   Sleeping bags (Rab & Terra Nova)  
-  Sleeping mats (Mountain designs & thermorest)  
-  Katadyn Varia water filter (+ Life Systems water purfication solution)  
+  Sleeping mats (Mountain designs & Thermarest)  
+  Katadyn Vario water filter (+ Life Systems water purfication solution)  
   MSR Dragonfly  
   MSR Seagull 2 pan & lid set    
   Sea to Summit folding bowl & mug set x 2   
-  Titanium Sports x 2   
+  Titanium Sporks x 2   
   Ortlieb folding wash bowl 5l  
   Lomo sit mats  
 
@@ -45,7 +45,7 @@ Two pairs shorts for cycling
 Two pairs lycra shorts  
 Three t-shirts    
 Five pairs socks (2 long, 2 short, 1 waterproof)  
-Thress pairs underwear (Icebreaker)   
+Three pairs underwear (Icebreaker)   
 Thermals (top & bottom)  
 Swimming trunks.  
 Down jacket (thick)  
@@ -70,7 +70,7 @@ Helmet
   Merino jumper  
   Leggings  
   Thermals (top & bottom)   
-  Bikini 
+  Bikini  
   Gillet   
   Down jacket (thin & thick)  
   Waterproof jacket & trousers   
@@ -84,7 +84,7 @@ Helmet
 
 ## Spares 
 
-  Four break cables  
+  Four brake cables  
   Four gear cables  
   One tyre  
   Three inner tubes  
