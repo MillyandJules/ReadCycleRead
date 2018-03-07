@@ -11,15 +11,27 @@ Packing list in progress!
 
 Thorn Raven Tour (Milly)  
 Thorn Nomad (Jules)  
+Ortlieb panniers (4 back & 4 front - Classic)  
+Ortieb rack packs x 2  
+Ortlieb Ultimate 6 bar bags x 2  
+Click-stands x 2  
+
 
 ## Camping gear  
 
+Tent - Terra Nova Ultra Quasar   
+Sleeping bags (Rab & Terra Nova)  
+Katadyn Varia water filter (+ Life Systems water purfication solution)  
+
+
+## Electronics  
+
+Power Monkey Extreme  
+Samsung Note  
 
 ## Clothes  
 
-
-
-Jules' clothes:  
+**Jules' clothes:**    
 
 
 **Milly clothes:**  
@@ -51,4 +63,4 @@ Helmet
 
 ## Other
 Food & snacks  
-Water bottles
+Water bottles x 6 
