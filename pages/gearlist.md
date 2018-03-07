@@ -48,15 +48,15 @@ title: Gear List
   Three pairs underwear (Icebreaker)     
   Thermals (top & bottom)  
   Swimming trunks  
-Down jacket (thick)  
-Waterproof jacket & trousers  
-Hat & headband  
-Long gloves (+ liner)  
-Two buffs  
-Shimano SPD cycling shoes + overshoes  
-Shimano SPD sandals  
-Flip Flops  
-Helmet  
+  Down jacket (thick)  
+  Waterproof jacket & trousers  
+  Hat & headband  
+  Long gloves (+ liner)  
+  Two buffs  
+  Shimano SPD cycling shoes + overshoes  
+  Shimano SPD sandals  
+  Flip Flops  
+  Helmet  
 
 **Milly clothes:**  
   One pair shorts for cycling  
