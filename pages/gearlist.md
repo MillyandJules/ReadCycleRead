@@ -23,7 +23,7 @@ title: Gear List
   Katadyn Vario water filter (+ Life Systems water purfication solution)  
   MSR Dragonfly  
   MSR Seagull 2 pan & lid set  
-  Sea to Summit folding bowl & mug set x 2   
+  Sea to Summit folding bowl & mug set x 2  
   Titanium Sporks x 2  
   Ortlieb folding wash bowl 5l  
   Lomo sit mats  
@@ -63,12 +63,12 @@ title: Gear List
   One pair lycra shorts  
   Three t-shirts  
   Two tank tops  
-  Five pairs socks (2 long, 2 short, 1 waterproof)  
-  Six pairs underwear (2 padded)  
-  Three bras  
+  Five pairs socks (2 long, 2 short, 1 waterproof)  
+  Six pairs underwear (2 padded)  
+  Three bras  
   Merino dress  
-  Merino jumper 
-  Leggings  
+  Merino jumper  
+  Leggings  
   Thermals (top & bottom)  
   Bikini  
   Gillet  
