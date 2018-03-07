@@ -43,11 +43,11 @@ title: Gear List
 **Jules' clothes:**  
   Two pairs shorts for cycling  
   Two pairs lycra shorts  
-  Three t-shirts  
-Five pairs socks (2 long, 2 short, 1 waterproof)  
-Three pairs underwear (Icebreaker)   
-Thermals (top & bottom)  
-Swimming trunks  
+  Three t-shirts  
+  Five pairs socks (2 long, 2 short, 1 waterproof)  
+  Three pairs underwear (Icebreaker)     
+  Thermals (top & bottom)  
+  Swimming trunks  
 Down jacket (thick)  
 Waterproof jacket & trousers  
 Hat & headband  
@@ -59,13 +59,13 @@ Flip Flops
 Helmet  
 
 **Milly clothes:**  
-  One pair shorts for cycling   
-  One pair lycra shorts   
+  One pair shorts for cycling  
+  One pair lycra shorts  
   Three t-shirts  
-  Two tank tops  
+  Two tank tops  
   Five pairs socks (2 long, 2 short, 1 waterproof)  
   Six pairs underwear (2 padded)  
-  Three bras  
+  Three bras  
   Merino dress  
   Merino jumper  
   Leggings  
