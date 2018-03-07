@@ -43,20 +43,20 @@ title: Gear List
 **Jules' clothes:**  
   Two pairs shorts for cycling  
   Two pairs lycra shorts  
-  Three t-shirts  
-  Five pairs socks (2 long, 2 short, 1 waterproof)  
-  Three pairs underwear (Icebreaker)     
-  Thermals (top & bottom)  
-  Swimming trunks  
-  Down jacket (thick)  
-  Waterproof jacket & trousers  
-  Hat & headband  
-  Long gloves (+ liner)  
-  Two buffs  
-  Shimano SPD cycling shoes + overshoes  
-  Shimano SPD sandals  
-  Flip Flops  
-  Helmet  
+  Three t-shirts  
+  Five pairs socks (2 long, 2 short, 1 waterproof)  
+  Three pairs underwear (Icebreaker)   
+  Thermals (top & bottom)  
+  Swimming trunks  
+  Down jacket (thick)  
+  Waterproof jacket & trousers  
+  Hat & headband  
+  Long gloves (+ liner)  
+  Two buffs  
+  Shimano SPD cycling shoes + overshoes  
+  Shimano SPD sandals  
+  Flip Flops  
+  Helmet  
 
 **Milly clothes:**  
   One pair shorts for cycling  
