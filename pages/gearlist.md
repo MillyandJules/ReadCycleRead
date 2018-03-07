@@ -57,30 +57,30 @@ title: Gear List
   Shimano SPD sandals  
   Flip Flops  
   Helmet  
-d
+  
 **Milly clothes:**  
-One pair shorts for cycling 
-One pair lycra shorts   
-Three t-shirts  
-Two tank tops  
-Five pairs socks (2 long, 2 short, 1 waterproof)  
-Six pairs underwear (2 padded)  
-Three bras  
-Merino dress  
-Merino jumper  
-Leggings  
-Thermals (top & bottom)  
-Bikini  
-Gillet  
-Down jacket (thin & thick)  
-Waterproof jacket & trousers  
-Hat & headband  
-Short & long gloves (+ liner)  
-Three buffs  
-Shimano SPD cycling shoes + overshoes  
-Trainers  
-Flip Flops  
-Helmet  
+  One pair shorts for cycling 
+  One pair lycra shorts   
+  Three t-shirts  
+  Two tank tops  
+  Five pairs socks (2 long, 2 short, 1 waterproof)  
+  Six pairs underwear (2 padded)  
+  Three bras  
+  Merino dress  
+  Merino jumper  
+  Leggings  
+  Thermals (top & bottom)  
+  Bikini  
+  Gillet  
+  Down jacket (thin & thick)  
+  Waterproof jacket & trousers  
+  Hat & headband  
+  Short & long gloves (+ liner)  
+  Three buffs  
+  Shimano SPD cycling shoes + overshoes  
+  Trainers  
+  Flip Flops  
+  Helmet  
 
 ## Spares 
 
