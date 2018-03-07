@@ -63,7 +63,7 @@ title: Gear List
   One pair lycra shorts  
   Three t-shirts  
   Two tank tops
-  Five pairs socks (2 long, 2 short, 1 waterproof)  
+  Five pairs socks (2 long, 2 short, 1 waterproof)  
   Six pairs underwear (2 padded)  
   Three bras  
   Merino dress  
