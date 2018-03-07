@@ -45,7 +45,7 @@ title: Gear List
   Two pairs lycra shorts  
   Three t-shirts  
   Five pairs socks (2 long, 2 short, 1 waterproof)  
-  Three pairs underwear (Icebreaker)   
+  Three pairs underwear (Icebreaker)  
   Thermals (top & bottom)  
   Swimming trunks  
   Down jacket (thick)  
@@ -65,15 +65,15 @@ title: Gear List
   Two tank tops  
   Five pairs socks (2 long, 2 short, 1 waterproof)  
   Six pairs underwear (2 padded)  
-  Three bras  
+  Three bras  
   Merino dress  
-  Merino jumper  
+  Merino jumper 
   Leggings  
-  Thermals (top & bottom)   
+  Thermals (top & bottom)  
   Bikini  
-  Gillet   
+  Gillet  
   Down jacket (thin & thick)  
-  Waterproof jacket & trousers   
+  Waterproof jacket & trousers  
   Hat & headband  
   Short & long gloves (+ liner)  
   Three buffs  
