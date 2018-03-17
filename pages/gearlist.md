@@ -3,7 +3,7 @@ layout: page
 title: Gear List
 ---
 
-![Pack](/assets/img/Pack.JPG)*The bikes loaded for the road test to Cornwall*
+![Pack](/assets/img/Pack.JPG)*The bikes loaded for the road test to Cornwall - we've used the same set up minus a few non-essential items e.g. the picnic blanket!*
 
 
 ## Bikes
@@ -27,6 +27,7 @@ title: Gear List
   Titanium Sporks x 2  
   Ortlieb folding wash bowl 5l  
   Lomo sit mats  
+  Dry bags  
 
 ## Electronics  
 
@@ -37,6 +38,7 @@ title: Gear List
   Cateye Adventure odometer x 2  
   DeLorme inReach SOS device  
   Garmin phoenix 3 watch  
+  Canon EOS 550D camera  
 
 ## Clothes  
 
@@ -93,4 +95,5 @@ title: Gear List
 ## Other
   Food & snacks  
   Water bottles x 6  
+  Reusable shopping bags  
   
