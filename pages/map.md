@@ -7,7 +7,9 @@ title: Our Plan to Cross Eurasia
     <iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/untitled-map_194872?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/en/map/untitled-map_194872">See full screen</a></p>
  </div>
 
- The green line above shows the actual route travelled. To see our most recent progress & for more stats and photos check out our [**Strava**](https://www.strava.com/athletes/readcycleread) page.
+  The green line above shows the actual route travelled, although this may be a few days behind (click on the map for full key).  
+  
+  To see our most recent progress & for more stats and photos check out our [**Strava**](https://www.strava.com/athletes/readcycleread) page.  
 
   Below is a rough outline for where we aim to be, and when: 
   
