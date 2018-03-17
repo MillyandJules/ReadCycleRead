@@ -9,7 +9,7 @@ title: Our Plan to Cross Eurasia
 
  The green line above shows the actual route travelled. To see our most recent progress & for more stats and photos check out our [**Strava**](https://www.strava.com/athletes/readcycleread) page.
 
-  Here is a rough outline for where we aim to be, and when: 
+  Below is a rough outline for where we aim to be, and when: 
   
   **Part 1 (2018)**
   
