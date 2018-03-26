@@ -5,6 +5,8 @@ title: Home
 
 ## Update 26.03.2018  
 
+![FranceMap](assets/img/FranceMap.png)
+
 Well we made it through France! Haven't managed to have a proper rest day to update this blog so keep an eye on Instagram for daily snippets for now!
 
 All in all though France comprised of:  
