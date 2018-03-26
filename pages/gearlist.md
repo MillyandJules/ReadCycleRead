@@ -23,6 +23,8 @@ title: Gear List
   Katadyn Vario water filter (+ Life Systems water purfication solution)  
   MSR Dragonfly  
   MSR Seagull 2 pan & lid set  
+  Victorinox Swiss Tool  
+  Petzl head torches  
   Sea to Summit folding bowl & mug set x 2  
   Titanium Sporks x 2  
   Ortlieb folding wash bowl 5l  
