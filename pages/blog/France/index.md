@@ -3,13 +3,22 @@ layout: default
 title: Home
 ---
 
-## Latest stats
-From St Malo to Orléans:  
-  Distance: 450 km  
-  Ascent: 3000m  
-  No. baguettes eaten: 13  
-  No. croissants eaten: 13  
-  No. chateaus seen: Too many to count!  
+## Update 26.03.2018  
+
+Well we made it through France! Haven't managed to have a proper rest day to update this blog so keep an eye on Istagram for daily snippets for now!
+
+All in all though France comprised of:  
+
+  From: St Malo to Basel  
+  No. days: 16  
+  Distance: 1275 km  
+  Ascent: 6500 m  
+  No. baguettes eaten: 30  
+  No. croissants eaten: 41  
+  
+  Accommodation:  
+  Tent: 12 nights (1 open campsite)  
+  Warmshowers: 4 incredible hosts  
 
 {% for post in site.posts %}
 {% if post.tags contains "France" %}
