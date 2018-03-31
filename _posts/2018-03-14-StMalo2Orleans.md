@@ -23,9 +23,9 @@ As we headed inland we cycled on some incredible 'Voire Verte' cycle routes whic
 
 After yet more flooded paths and beautiful chateaus, a week after we set off we reached Orléans (where the flat lands supposedly start...)! We find our best boulangerie yet just past the huge cathedral in Orléans. Orléans is the celebrated home of Joan of Arc, the courageous teenager who predicted a military reversal at the Battle of Rouvray between France and England. Her presence at the siege of Orléans was a success and led to Charles VII's coronation, boostingthe Fench morale and paving the way for a French victory. She was captured and burned on the stake by a pro-English Bishop, aged only 19. Later pardonned she became a martyr and patron saint of France.  
 
-So after reading that a little rain and mud didnt seem so bad! Full of baguette we head off to follow the Loire gently upstream.
-
 ![Orleans](assets/img/Orleans.jpg)
+
+So after reading that a little rain and mud didnt seem so bad! Full of baguette we head off to follow the Loire gently upstream.
 
 ![LoireVal](assets/img/LoireVal.jpg)
 
