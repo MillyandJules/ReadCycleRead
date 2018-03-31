@@ -8,9 +8,9 @@ tags: France
 ---
 
 There are three things you should know before setting off on a cycle ride through rural France:  
-  1. Say 'Bonjour' to anyone before you ask for anything, or indeed even if you just pass them in the street  
-  2. Buy lunch before midday to avoid disappointment. Most boulangeries & small shops close between 12-12:30 and 3pm   
-  3. Be prepared to wild camp if arriving before 1st April
+  1  Say 'Bonjour' to anyone before you ask for anything, or indeed even if you just pass them in the street  
+  2  Buy lunch before midday to avoid disappointment. Most boulangeries & small shops close between 12-12:30 and 3pm   
+  3  Be prepared to wild camp if arriving before 1st April   
 
 We were well aware of points 1 and 2 before starting off but were rudely awakened to the fact that most French campsites are closed until April after arriving in Mont St Michel. After a 60km first day past the oyster beds of Cancale and over the rolling country hills (definitely not flat) we were looking forward to an easy first night in the tent. But despite the amount of tourists, and HUGE camping sign we were told to go elsewhere. After circling the local area until dusk we ended up on the coast with a spectacular view and not a campervan in sight.
 
