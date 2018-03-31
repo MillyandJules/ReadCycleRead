@@ -19,3 +19,5 @@ Travelling via low carbon transport is also important to us both and whilst we w
 
 To help us raise £1 per mile please visit: 
 [**justgiving.com/fundraising/readcycleread**](https://www.justgiving.com/fundraising/readcycleread)  
+
+So finally at 3pm, an hour later than planned we cycled the 30km from Bosham to Portsmouth to catch the overnight ferry to St Malo. It was a sunny but cold 8 degrees so off we optimistically went in shorts & t-shirts only to put on full waterproofs 5kms later! Just glad we booked a cabin so at least had a hot shower on the boat, perhaps the last for a while. France here we come...
