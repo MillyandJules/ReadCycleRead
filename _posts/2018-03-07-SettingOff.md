@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "Setting Off"
 date: 2018-03-07
 image:
