@@ -15,7 +15,7 @@ We had planned to have a rest day every 7 days or so, and now on day 8 we were b
 
 Rested we continued into strong headwinds up the Loire valley, but beautiful sunshine - you can't have it all!! Our path left the river at times to run alongside the peaceful joining canals. Riding past Sancere we were tempted by the many vineyards but time wasnot on our side so we pressed on along the Canal de Nivernais. Our reward however, seeing otters and beavers duck in and outof the water beside us, just magical!  
 
-![Beaver](assets/img/Beaver.jpg)  
+![Beaver](assets/img/Beaver.JPG)  
 
 We had been warned that cold weather was coming but were not quite prepared for max temperatures of 3 degrees and suffered a bit of the next few days. After camping in the snow we met our first other long distance cycle tourists! A great boost we had a good chat in Frenglish about the cold and accommodation difficulties of cycling off season. Mateo & Sonia are a French couple cycling from France to Bangkok - we hope to meet them again further along our route!  
 
