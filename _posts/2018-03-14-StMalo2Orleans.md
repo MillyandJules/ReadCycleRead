@@ -25,6 +25,8 @@ Warmshowers is a website where there is a community of cycle tourists, both host
 
 Another benefit of Warmshowers is speaking to locals and discovering all sorts of information about places we'd cycled, or were about to cycle through. We found out for example that the little village of Illiers-Combray, where we had stopped to buy a gift for our hosts, was where Marcel Proust frequently went on holiday and was the model for the fictional town of Combray which appears in 'In Search of Lost Time' and where the "episode of the madeline" is supposedly based. In fact Illiers was renamed Iliers-Combray in 1971 in honour of Proust!  
 
+![LoireVeloSign](assets/img/LoireVeloSign.jpg)
+
 After yet more flooded paths and beautiful chateaus, a week after we set off we finally reached Orléans (where the flat lands supposedly start...)! We find our best boulangerie yet just past the huge cathedral in Orléans. Orléans is the celebrated home of Joan of Arc, the courageous teenager who predicted a military reversal at the Battle of Rouvray between France and England. Her presence at the siege of Orléans was a success and led to Charles VII's coronation, boosting the Fench morale and paving the way for a French victory. She was captured and burned on the stake by a pro-English Bishop, aged only 19. Later pardonned she became a martyr and patron saint of France.  
 
 ![Orleans](assets/img/Orleans.jpg)
