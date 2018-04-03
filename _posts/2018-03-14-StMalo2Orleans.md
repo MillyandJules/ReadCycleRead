@@ -29,7 +29,7 @@ Another benefit of Warmshowers is speaking to locals and discovering all sorts o
 
 After yet more flooded paths and beautiful chateaus, a week after we set off we finally reached Orléans (where the flat lands supposedly start...)! We find our best boulangerie yet just past the huge cathedral in Orléans. Orléans is the celebrated home of Joan of Arc, the courageous teenager who predicted a military reversal at the Battle of Rouvray between France and England. Her presence at the siege of Orléans was a success and led to Charles VII's coronation, boosting the Fench morale and paving the way for a French victory. She was captured and burned on the stake by a pro-English Bishop, aged only 19. Later pardonned she became a martyr and patron saint of France.  
 
-![Orleans](assets/img/Orleans.jpg)
+![Orleans](assets/img/Orleans_rot.jpg)
 
 So after reading that a little rain and mud didnt seem so bad! Full of baguette we head off to follow the Loire gently upstream.
 
