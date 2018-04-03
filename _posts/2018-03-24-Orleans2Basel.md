@@ -7,9 +7,10 @@ image: FranceMap.png
 tags: France
 ---
 
-Well we made it through France! Haven't managed to have a proper update this blog due to Swiss hills keeping us busy, so keep an eye on Instagram for daily snippets for now!
+Photos to come....
 
-Leaving Orléans we had a lovely few days cycling along the stopbanks of the Loire. The birdlife is incredible, and especially so first thing in the morning and at dusk when you have the cycle paths to yourselves and share the light with the herons, egrets, kingfishers, ducks and swans.  
+
+Leaving Orléans we had a lovely few days cycling along the stopbanks of the Loire. The birdlife is incredible, and especially so first thing in the morning and at dusk when you have the cycle paths to yourselves and share the light with the herons, egrets, kingfishers, ducks and swans. 
 
 We had planned to have a rest day every 7 days or so, and now on day 8 we were both in need of a break and planned to find a gîte in Giens. Even better we found our first open campsite, situated right on the bank of the Loire with a stunning view across to the city of Gien. After washing ourselves and our clothes we headed into explore Gien, finding yet another incredible bakery - Le Fournil de Gien - just before the storm clouds rolled in and we took cover in the beautiful 15th century Château de Gien. The city was heavily bombed by Germans in the second World War with a million soldiers and refugees trying to cross the bridge into Giens over just a few days before it was destroyed. The Château, home to Kings and Queens is now a hunting museum and has been fantastcially curated so that even non-French speakers can enjoy the many historical artefacts, drawings and cinematography. The museum highlights the fascination of hunting for sport and had some pretty gruesome paintings, but the most interesting displays were on the use of falcons for hunting, now used for conservation. We'd cycled past many woodlands with signs up saying 'Réserve de Chasse' which means 'no hunting' so the museum was a timely reminder of how times have changed. 
 
