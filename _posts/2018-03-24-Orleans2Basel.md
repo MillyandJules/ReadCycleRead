@@ -15,7 +15,7 @@ We had planned to have a rest day every 7 days or so, and now on day 8 we were b
 
 Rested we continued into strong headwinds up the Loire valley, but beautiful sunshine - you can't have it all!! Our path left the river at times to run alongside the peaceful joining canals. Riding past Sancere we were tempted by the many vineyards but time wasnot on our side so we pressed on along the Canal de Nivernais. Our reward however, seeing otters and beavers duck in and outof the water beside us, just magical!  
 
-![Beaver](assets/img/Beaver.JPG)  
+![Beaver](assets/img/Beaver.jpg)  
 
 We had been warned that cold weather was coming but were not quite prepared for max temperatures of 3 degrees and suffered a bit of the next few days. After camping in the snow we met our first other long distance cycle tourists! A great boost we had a good chat in Frenglish about the cold and accommodation difficulties of cycling off season. Mateo & Sonia are a French couple cycling from France to Bangkok - we hope to meet them again further along our route!  
 
@@ -29,15 +29,19 @@ Needing to warm-up and tempted by a short-cut from our planned route we headed u
 
 The ride to and from Dole is stunning, between the river Doubs and interconnecting canals. Dole is the birthplace of Louis Pasteur, the famous French scientist who discovered a vaccine for rabies and developed the concept of pasteurisation, through studying the fermentation of wine - much more important than milk!! The sun came out as we munched on baguette number 35 and all seemed well. The following day we met our second long distance cyclist, Eternallifenow (no that's not a typo). He is cycling from Salzburg Austria to the Mediterranean coast where he is going to build a raft and sail to Ibiza - he's done it before apparently!! He had everything he owned on his bike (a cheap Decathlon mountain bike) and cycles whilst listening to philosophy. You have to admire people like him, seemingly not a care in the world, he has no affiliations, no home nation and is trying to rid himself of life's inevitable prejudices.  
 
-![Dole](assets/img/Dole.jpg)  
+![DoleCity](assets/img/DoleCity.jpg)  Dole
 
-![eternallifenow](assets/img/eternallifenow.jpg)  
+![Dole](assets/img/Dole.jpg)  A sunny lunch spot in Dole
+
+![eternallifenow](assets/img/eternallifenow.jpg)  Eternallifenow
 
 We were blown away with the generosity of people we met on this trip and especially through Warmshowers on the last two days in France. Bad planning, closed campsites and panic and nightfall in an urbanised area near Besançon led us to call a Warmshowers host at very late notice. They took us in like family and even left us some feet warmers to cycle in the next day as we had told them how cold we had been! So incredibly touched. Our last hosts in France were equally as kind, getting up early especially to buy croissants for us and keep the croissant count up!! We could have spent the whole weekend with them, and were tempted as it was proving difficult to find acommodation in Basel. However, a warm and sunny day lured us back on the bikes as we followed the canal into Basel, said goodbye to Euro Velo 6, and crossed over the three countries bridge (France, Germany, Switzerland).   
 
-![EV6](assets/img/EV6.jpg)  
+![Besancon](assets/img/Besancon.jpg)  Following the river to the walled city of Besançon
 
-![ThreeCountriesBridge](assets/img/ThreeCountriesBridge.jpg)  
+![EV6](assets/img/EV6.jpg)  Leaving Eurovelo 6
+
+![ThreeCountriesBridge](assets/img/ThreeCountriesBridge.jpg)  The bridge to Basel
 
 Au revoir France!
 
