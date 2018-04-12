@@ -3,7 +3,7 @@ layout: post
 title: "Basel to Santa Maria"
 author: The Reads
 date: 2018-03-29
-image: Bergun.jpg
+image: Bergun.JPG
 tags: CH
 ---
 
@@ -25,7 +25,7 @@ As for the hills, any excuse for a climb and Jules will take it! Maud is also qu
 
 We'd had a bit of everything weather wise and with Maud having to leave us on Easter Sunday we decided to head up to Bergün on Good Friday and reassess then. The last climb up to Bergün is steep withthe final 1.5kms averaging 14% and with sleet pelting down we were glad to have a B&B to dry off in at the top. We took Saturday off and explored Bergün, where sadly Europe's longest sledge run had just closed. The beautiful Hotel Kurhaus (1906) was open however and we made the most of their observatory with 360 degree views of the snowy mountains around. The Albula valley is also home to the spectacular UNESCO World Heritage Rhaetian Railway with 42 tunnels and 144 bridges it is well worth the ride. 
 
-![Bergun](assets/img/Bergun.jpg) *Bergün*
+![Bergun](assets/img/Bergun.JPG) *Bergün*
 
 ![TrainMap](assets/img/TrainMap.jpg) *Topographic plus profile of the train line which shows the topographical route of the train plus the incredible height gain*  
 
