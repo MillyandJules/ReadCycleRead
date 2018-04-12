@@ -11,7 +11,7 @@ Do you ever make plans that don't quite work out? We've learnt to embrace our mo
 
 We were hosted again by so many lovely Warmshowers hosts in Switzerland, several whom also had an eye for maps and even worked in GIS like Jules. We were treated to raclette and homemade and foraged Swiss delicacies we will never forget - wild garlic pesto, apricot tarts and Russian bread to name a few. With so much to talk about we often had late nights but mornings were a bit more relaxed! Luckily for us we had extra motivation during the day in the form of Maud, Jules's old work colleague who now lives in Zurich. Maud is a fountain of knowledge and not only guided us through all the best sweet treats in the bakeries, with the Engadiner Nusstorte (caremelised nut tart) being a joint favourite, but also the menus, the crazy Swiss-German language (plus Swiss-Italian, Swiss-French & Romansch), and the many Swiss intracacies. It was lots of fun cycling as a three and she'll be sorely missed.  
 
-![Maud](assets/img/Maud.jpg) *Cycling with Maud above Lake*
+![Maud](assets/img/Maud.jpg) *Cycling with Maud above Lake Agerisee*
 
 Our time in Switzerland was defintely dominated by four things: hills, kind people, excellent cycle paths and cheese! The Swiss have cheese for breakfast, lunch and dinner, so naturally we followed suit! As soon as we crossed the border we had cars stopping to ask if we needed directions, had four fantastic Warmshowers hosts and even an offer to stay in a beautiful hotel free of charge for the night. 
 
