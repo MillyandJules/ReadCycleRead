@@ -15,9 +15,9 @@ We were hosted again by so many lovely Warmshowers hosts in Switzerland, several
 
 Our time in Switzerland was defintely dominated by four things: hills, kind people, excellent cycle paths and cheese! The Swiss have cheese for breakfast, lunch and dinner, so naturally we followed suit! As soon as we crossed the border we had cars stopping to ask if we needed directions, had four fantastic Warmshowers hosts and even an offer to stay in a beautiful hotel free of charge for the night. 
 
+![SwissSigns](assets/img/SwissSigns.jpg) *Milly appreciating the excellent Swiss signage*
 
-
-As for the hills, any excuse for a climb and Jules will take it! Maud is also queen of the mountain, although perhaps drew the line at pushing the bikes uphill through a muddy farm for 500m, but yes it was worth it for the views! Absolutely stunning landscapes with the snow making a beautiful contrast with the mountains and the sky. The two climbs that were on the list in particular were the Julier pass (2284m) and the Ofenpass (2147m), both open throughout winter snow dependent. 
+As for the hills, any excuse for a climb and Jules will take it! Maud is also queen of the mountain, although perhaps drew the line at pushing the bikes uphill through a muddy farm for 500m, but yes it was worth it for the views! Absolutely stunning landscapes with the snow making a beautiful contrast with the mountains and the sky over the Walensee Lake. The two climbs that were on the list in particular were the Julier pass (2284m) and the Ofenpass (2147m), both open throughout winter snow dependent. 
 
 ![LakeWalensee](assets/img/LakeWalensee.jpg) *The beautiful Lake Walensee - worth the view after the climb and mud episode* 
 
