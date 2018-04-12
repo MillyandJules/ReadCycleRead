@@ -35,9 +35,11 @@ With the promise of a fine day we left Bergün on Easter Sunday whizzing down th
 
 ![Julierpass](assets/img/Julierpass.jpg) *Stunning finish on the Julierpass*
 
-![OffenpassTop](assets/img/OffenpassTop.jpg) *The top of the Ofenpass*
+![StMoritz](assets/img/StMoritz.jpg) *Frozen lake near St Moritz at the bottom of the Julier pass descent*
 
-The Ofenpass is a very different climb with long steep 12%+ sections and 'false flats' where your eyes tell you that youre going downhill but you're legs are pushing and you're ODO says 4% up it is! Shattered at the top, passimg more ski tourers we whizzed down to Santa Maria in search of a bed and hot food. We stayed at the lovely Chasa Joura, 800 year old converted barn. Santa Maria is a beautiful town with lovely fresco paintings on all the houses. Sadly we were turned away from the only open restaurant though and ate porridge for supper instead!
+The Ofenpass is a very different climb with long steep 12%+ sections and 'false flats' where your eyes tell you that youre going downhill but you're legs are pushing and you're ODO says 4% up it is! Shattered at the top, passimg more ski tourers we whizzed down to Santa Maria in search of a bed and hot food. We stayed at the lovely Chasa Joura, 800 year old converted barn. Santa Maria is a beautiful town with lovely fresco paintings on all the houses. Sadly we were turned away from the only open restaurant though and ate porridge for supper instead!  
+
+![OffenpassTop](assets/img/OffenpassTop.jpg) *The top of the Ofenpass*
 
 Luckily we had a great breakfast in the morning which fuelled us down the hill and into Italy!!!
 
