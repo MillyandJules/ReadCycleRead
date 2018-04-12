@@ -3,7 +3,7 @@ layout: post
 title: "Basel to Santa Maria"
 author: The Reads
 date: 2018-03-29
-image: Bergun.JPG
+image: 
 tags: CH
 ---
 
