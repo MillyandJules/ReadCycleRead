@@ -25,7 +25,7 @@ Needing to warm-up and tempted by a short-cut from our planned route we headed u
 
 ![WStrain](assets/img/WStrain.jpg)  *Outside the old train station where our Warmshowers hosts lived*
 
-![Staubinchurch](assets/img/Staubinchurch.jpg)  *St Aubin's church*
+![StAubinChurchR](assets/img/StAubinChurchR.jpg)  *St Aubin's church*
 
 The ride to and from Dole is stunning, between the river Doubs and interconnecting canals. Dole is the birthplace of Louis Pasteur, the famous French scientist who discovered a vaccine for rabies and developed the concept of pasteurisation, through studying the fermentation of wine - much more important than milk!! The sun came out as we munched on baguette number 35 and all seemed well. The following day we met our second long distance cyclist, Eternallifenow (no that's not a typo). He is cycling from Salzburg Austria to the Mediterranean coast where he is going to build a raft and sail to Ibiza - he's done it before apparently!! He had everything he owned on his bike (a cheap Decathlon mountain bike) and cycles whilst listening to philosophy. You have to admire people like him, seemingly not a care in the world, he has no affiliations, no home nation and is trying to rid himself of life's inevitable prejudices.  
 
@@ -39,7 +39,7 @@ We were blown away with the generosity of people we met on this trip and especia
 
 ![Besancon](assets/img/Besancon.jpg)  *Following the river to the walled city of Besançon*
 
-![EV6](assets/img/EV6.jpg)  *Leaving Eurovelo 6*
+![EV6R](assets/img/EV6R.jpg)  *Leaving Eurovelo 6*
 
 ![ThreeCountriesBridge](assets/img/ThreeCountriesBridge.jpg)  *The bridge to Basel*
 
