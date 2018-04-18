@@ -13,7 +13,9 @@ tags: France
   Distance: 1275 km  
   Ascent: 6500 m    
   
-  **We slept**:  
+  TOTAL from UK: 1305 km (810 miles)
+  
+  **We slept**: 
   Tent : 12 nights (1 open campsite)!  
   Warmshowers: 4 incredible hosts  
   
