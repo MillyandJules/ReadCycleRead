@@ -20,8 +20,8 @@ tags: SL
   Warmshowers: 2 nights  
  
   **We ate**:  
-  Jota (saukraut & pork soup): 1     
-  Prebanc (bean cassoulet): 1  
+  Jota (saukraut & pork soup): 1  
+  Prebanc (bean cassoulet): 1  
   Strudel: 6  
   
   **We saw**:  
