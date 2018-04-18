@@ -13,10 +13,12 @@ tags: AU
   Distance: 185 km  
   Ascent: 1100 m  
   
-  **We slept**:  
-  Tent : 2 nights  
-  
-  **We ate**:  
+  TOTAL from UK: 2195 km (1364 miles)  
+    
+    **We slept**:  
+  Tent: 2 nights  
+ 
+  **We ate**:  
   Pretzel bread balls: 4  
   Apple strudel: 2  
   Picnics: Finally 1 in the sunshine!  
