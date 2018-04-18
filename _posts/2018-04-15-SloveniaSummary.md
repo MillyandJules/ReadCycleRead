@@ -16,8 +16,8 @@ tags: SL
   TOTAL from UK: 2377 km (1477 miles)  
     
    **We slept**:  
-  Tent: 2 nights 
-  Warmshowers: 2 nights  
+  Tent: 2 nights  
+  Warmshowers: 2 nights  
  
   **We ate**:  
   Jota (saukraut & pork soup): 1     
