@@ -14,6 +14,7 @@ tags: IT
   Ascent: 4550 m  
   
   TOTAL from UK: 2115 km (1314 miles)  
+  
   
   **We slept**:  
   Tent : 5 nights (2 in Seiser Alm campsite) 
