@@ -16,7 +16,7 @@ tags: IT
   TOTAL from UK: 2115 km (1314 miles)  
   
   
-  **We slept**:  
+ **We slept**:  
   Tent : 5 nights (2 in Seiser Alm campsite) 
   
   **We ate**:  
