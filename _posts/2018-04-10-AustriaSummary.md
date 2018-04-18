@@ -15,7 +15,7 @@ tags: AU
   
   TOTAL from UK: 2195 km (1364 miles)  
     
-    **We slept**:  
+   **We slept**:  
   Tent: 2 nights  
  
   **We ate**:  
