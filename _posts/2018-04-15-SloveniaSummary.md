@@ -14,6 +14,9 @@ tags: SL
   Ascent: 2515 m  
   
   TOTAL from UK: 2377 km (1477 miles)  
+  
+  See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
+   
     
    **We slept**:  
   Tent: 2 nights  
