@@ -13,7 +13,7 @@ tags: HR
   Distance: 668 km  
   Ascent: 9150 m    
   
-  TOTAL from UK: 1305 km (810 miles)  
+  TOTAL from UK: 3045 km (1892 miles)  
   
   See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
     
