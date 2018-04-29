@@ -25,6 +25,7 @@ tags: BIH
     
   **We ate**:  
   Burek: 4  
+    
   
   **We saw**:  
   Three border crossings, shepherds, hills and beauutiful green & rocky mountains.   
