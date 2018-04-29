@@ -14,6 +14,9 @@ tags: AU
   Ascent: 1100 m  
   
   TOTAL from UK: 2195 km (1364 miles)  
+  
+  See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
+  
     
    **We slept**:  
   Tent: 2 nights  
