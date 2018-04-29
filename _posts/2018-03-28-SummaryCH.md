@@ -13,7 +13,10 @@ No. days: 9.5
 Distance: 570 km  
 Ascent: 10,150 m  
 
-TOTAL from UK: 1875 km (1165 miles)
+TOTAL from UK: 1875 km (1165 miles)  
+
+[**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread  
+  
 
 **We slept:**  
 Tent: 1 night  
