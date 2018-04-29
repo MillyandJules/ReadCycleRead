@@ -13,7 +13,7 @@ tags: BIH
   Distance: 68 km  
   Ascent: 760 m    
   
-  TOTAL from UK:  km ( miles)  
+  TOTAL from UK: 3113 km (1934 miles)  
   
   See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
     
