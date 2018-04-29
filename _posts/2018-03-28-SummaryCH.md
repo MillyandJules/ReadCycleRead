@@ -3,7 +3,7 @@ layout: post
 title: "Summary - Switzerland via Liechtenstein"
 author: The Reads
 date: 2018-04-02
-image: 
+image: SwissMap.png
 tags: CH
 ---
 
