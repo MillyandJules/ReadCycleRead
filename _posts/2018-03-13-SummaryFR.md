@@ -15,6 +15,8 @@ tags: France
   
   TOTAL from UK: 1305 km (810 miles)  
   
+  See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
+    
   
   **We slept**: 
   Tent : 12 nights (1 open campsite)!  
