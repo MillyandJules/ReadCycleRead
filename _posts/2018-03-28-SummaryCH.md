@@ -15,7 +15,7 @@ Ascent: 10,150 m
 
 TOTAL from UK: 1875 km (1165 miles)  
 
-[**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread  
+See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
   
 
 **We slept:**  
