@@ -27,6 +27,7 @@ tags: HR
   Poppy seed paste pastries: 4  
   Nutella croissants: 8    
   Jars of ajvar: 5  
+  
   
   **We saw**:  
-  The sea! So many beautiful bays, small bays, boats, olive groves and some other cycle tourers!   
+  The turquoise blue sea! So many beautiful bays, small bays, boats, olive groves and some other cycle tourers!   
