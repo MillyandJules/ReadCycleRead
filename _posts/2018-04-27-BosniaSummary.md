@@ -28,4 +28,4 @@ tags: BIH
     
   
   **We saw**:  
-  Three border crossings, shepherds, hills and beauutiful green & rocky mountains.   
+  Three border crossings, shepherds, hills and beautiful green & rocky mountains.   
