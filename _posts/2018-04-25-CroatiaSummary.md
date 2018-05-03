@@ -9,7 +9,8 @@ tags: HR
 
 **We cycled**:  
   From: Babno Polje to Ivanica   
-  No. days: 12  
+  No. days: 11 + 1 rest day  
+  
   Distance: 668 km  
   Ascent: 9150 m    
   
@@ -30,4 +31,4 @@ tags: HR
   
   
   **We saw**:  
-  The turquoise blue sea! So many beautiful bays, small bays, boats, olive groves and some other cycle tourers!   
+  The turquoise blue sea! So many beautiful bay, boats, olive groves, vineyards and some other cycle tourers!   
