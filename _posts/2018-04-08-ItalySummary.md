@@ -9,7 +9,8 @@ tags: IT
 
 **We cycled**:  
   From: Müstair to Erlbach  
-  No. days: 5  
+  No. days: 4 + 1 rest day  
+  
   Distance: 240 km  
   Ascent: 4550 m  
   
