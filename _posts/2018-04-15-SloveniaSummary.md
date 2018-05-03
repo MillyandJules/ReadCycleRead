@@ -9,7 +9,8 @@ tags: SL
 
 **We cycled**:  
   From: Wurzenpass to Babno Polje  
-  No. days: 4  
+  No. days: 3 + 1 rest day  
+  
   Distance: 182 km  
   Ascent: 2515 m  
   
