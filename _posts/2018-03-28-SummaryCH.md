@@ -9,9 +9,11 @@ tags: CH
 
 **We cycled:**  
 From: Basel to Santa Maria  
-No. days: 9.5  
-Distance: 570 km  
-Ascent: 10,150 m  
+No. days: 9.5 (1.5 rest days)
+
+Distance: 570 km  
+
+Ascent: 10,150 m  
 
 TOTAL from UK: 1875 km (1165 miles)  
 
