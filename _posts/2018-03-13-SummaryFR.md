@@ -22,8 +22,9 @@ tags: France
   
   **We slept**:  
   Tent : 12 nights (1 open campsite)!  
-  Warmshowers: 4 incredible hosts  
   
+  Warmshowers: 4 incredible hosts  
+  
   **We ate**:  
   No. baguettes eaten: 30  
   No. croissants eaten: 41  
