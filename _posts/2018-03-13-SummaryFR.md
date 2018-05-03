@@ -9,9 +9,11 @@ tags: France
 
 **We cycled**:  
   From: St Malo to Basel  
-  No. days: 16 (1 rest day)  
+  No. days: 15 + 1 rest day  
+  
   Distance: 1275 km  
-  Ascent: 6500 m    
+  
+  Ascent: 6500 m   
   
   TOTAL from UK: 1305 km (810 miles)  
   
