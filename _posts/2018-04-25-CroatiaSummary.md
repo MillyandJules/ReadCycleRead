@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary - Croatia"
+title: "In Summary - Croatia"
 author: The Reads
 date: 2018-04-25
 image: CroatiaMap.png
@@ -21,6 +21,7 @@ tags: HR
   
   **We slept**:  
   Tent : 9 nights   
+  
   Warmshowers: 0 but one incredible chance meeting & host for 2 nights  
   Hostel/BnB: 1  
     
@@ -28,6 +29,7 @@ tags: HR
   Poppy seed paste pastries: 4  
   Nutella croissants: 8    
   Jars of ajvar: 5  
+  Approx 1 litre of kefir a day!  
   
   
   **We saw**:  
