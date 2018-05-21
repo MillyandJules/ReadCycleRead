@@ -2,7 +2,7 @@
 layout: post
 title: "Babno Polje to Zadar"
 author: Camilla Read
-date: 2018-04-14
+date: 2018-04-19
 image: 
 tags: HR
 ---
@@ -17,6 +17,6 @@ Traversing up high at 750m above sea level, past semi-wild horses the road opene
 
 The ferry to Pag is only 15 minutes and you are instantly transported into another new landscape, almost moonlike it is covered in yellow rocks and boulders. Again, we were faced with the bittersweet reminder that we'd arrived off season - closed campsites, quieter roads, not a bad trade off. The main road on Pag however has quite a lot of trucks so we followed the 'old road' along the coast, past the 'road closed' signs, it was easy enough to walk around the mud barrier and was a pretty, if rather bumpy ride to the town of Pag. The old town has a very pretty square and beautful old 15th century buildings. 
 
-Trying to avoid the main road again we took a gravel track around the salt flats. It was a numbered road but super bumpy and hot, hardwork so we joined the main road again, which you have to join anyway to get over the bridge to the mainland peninsula. By this stage the wind had picked up and was funelling through the gap making for a pretty terrifying bridge crossing. After a late lunch on the beach at Ritna we again tried a Jules special shortcut/avoid main road route. To be fair it looked OK on the map but after a few hundred metres we were both pushing our bikes up a very rutted mud track. I always believe that everything happens for a reason, and if we had not persevered on this route we would not have met Sandra and Darko atthe top who were out looking for wild asparagus. After 5 minutes of chatting they invited us to stay with them and we spent a wonderful two days with them and their family, relaxing, eating traditional Dalmatian food, hunting for wild asparagus and being shown around the beautiful Zadar city. It was an unbelievable kindness and we feel like we have made friends for life.
+Trying to avoid the main road again we took a gravel track around the salt flats. It was a numbered road but super bumpy and hot, hardwork so we joined the main road again, which you have to join anyway to get over the bridge to the mainland peninsula. By this stage the wind had picked up and was funelling through the gap making for a pretty terrifying bridge crossing. After a late lunch on the beach at Ritna we again tried a Jules special shortcut/avoid main road route. To be fair it looked OK on the map but after a few hundred metres we were both pushing our bikes up a very rutted mud track. I always believe that everything happens for a reason, and if we had not persevered on this route we would not have met Sandra and Darko atthe top who were out looking for wild asparagus. After 5 minutes of chatting they invited us to stay with them and we spent a wonderful two days with them and their family, relaxing, eating traditional Dalmatian food, hunting for wild asparagus and being shown around the beautiful Zadar city. It also gave us a chance to do a good sort and switch our wardrobes from winter to summer cycling apparel! It was an unbelievable kindness and we feel like we have made friends for life.
 
 ![xx](assets/img/x.jpg) *insert caption*
