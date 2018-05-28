@@ -39,6 +39,5 @@ I always believe that everything happens for a reason, and if we had not perseve
 
 ![DalmatianFeast](assets/img/DalmatianFeast.jpg) *The large pan is filled with potatoes, peppers and carrots covered with meat and doused in homemade olive oil - delish!*  
 
-![ZadarFerry](assets/img/ZadarFerry.JPG) *Leaving the beautiful city of Zadar.*  
 
 
