@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Babno Polje to Zadar"
-author: Camilla Read
+author: Milly Read
 date: 2018-04-19
 image: Pag
 tags: HR
