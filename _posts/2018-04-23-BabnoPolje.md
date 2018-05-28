@@ -3,7 +3,7 @@ layout: post
 title: "Babno Polje to Zadar"
 author: Milly Read
 date: 2018-04-19
-image: Pag
+image: Pag.jpg
 tags: HR
 ---
 
