@@ -9,7 +9,7 @@ tags: AL
 
 **We cycled**  
 From: Sukobin to Kalovrisi (via Macedonia)  
-No. days: 7  
+No. days: 6 + 1 rest day  
 Distance: 440 kms (273 miles)   
 
 TOTAL from UK: 3,828 kms (2378 miles)  
