@@ -26,7 +26,7 @@ Ferry: 2 nights
 With a local: 3 nights  
 
 **We spent:**  
-Average cost per day: £35 per day including all transport costs  - quite amazing considering Jules' voracious appetite!!  
+Average cost per day: £35 (including all transport costs) - quite amazing considering Jules' voracious appetite!!  
 
 **Money raised for the [**World Land Trust**](http://www.worldlandtrust.org/)**  
 £2,067 - thank you!
