@@ -30,4 +30,4 @@ tags: BIH
   **We saw**:  
 Three border crossings, shepherds, hills and beautiful green & rocky mountains. NB: Not possible to cross the border above Slano or by Arandelovo - locals only!!  
 
-![BosniaSum](assets/img/BosniaSum.jpg) *Jules looking down the valley on the way up to the international border with Bosnia Montenegro*
+![BosniaSum](assets/img/BosniaSum.jpg) *Jules looking down the valley on the way up to the international border between Bosnia Montenegro*
