@@ -7,7 +7,5 @@ image: CreteMap.png
 tags: GR  
 ---
 
-
-
-
-![GreeceMap](assets/img/GreeceMap.png) *Map showing overall route through Greece including ferries to Crete and Rhodes*  
+See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
+ 
