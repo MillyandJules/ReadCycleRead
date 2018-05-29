@@ -26,3 +26,5 @@ One giant walnut & sunflower seed strudel
 
 **We saw**  
 Very few cars, beautiful old mountain roads and limestone cliffs, lots of motorbike tourers & a few cyclists too.  
+
+![MontenegroSum](assets/img/MontenegroSum.jpg)  *Milly being chased up the hill by the smiliest cycle tourers we've met on tour*
