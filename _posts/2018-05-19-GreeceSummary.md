@@ -8,7 +8,7 @@ tags: GR
 ---
 
 **We cycled**  
-From:  
+From: Kalovrisi to Rhodes    
 No. days:  17 + 3 rest days
 Distance: 995 kms (618 miles)  
 Ascent: 14,520 m 
