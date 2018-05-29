@@ -10,10 +10,10 @@ tags: GR
 **We cycled**  
 From: Kalovrisi to Rhodes    
 No. days:  17 + 3 rest days
-Distance: 995 kms (618 miles)  
+Distance: 1005 kms (620 miles)  
 Ascent: 14,520 m 
 
-TOTAL from UK: 4,823 kms (2997 miles)  
+TOTAL from UK: 4,833 kms (3003 miles)  
 
 See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
 
