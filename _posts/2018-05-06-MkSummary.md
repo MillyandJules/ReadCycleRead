@@ -24,3 +24,5 @@ Quite a bit considering we were recovering from a stomach bug! Spent an afternoo
 
 **We saw**  
 Wind, lakes, forest and sadly lots of roadside rubbish.  
+
+![MkSum](assets/img/MkSum.jpg)  *One Read by the reeds on Lake Ohrid*
