@@ -55,4 +55,4 @@ Jules: 0
 Result!  
 
 
-![x](assets/img/x.jpg)  
+![EuropeSum](assets/img/EuropeSum.jpg)  
