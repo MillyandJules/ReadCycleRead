@@ -26,4 +26,4 @@ Lots of olives, sheeps cheese, plaqui (big beans) and salc kosi a kind of hung s
 **We saw**  
 Petrol stations aplenty! Lavahs (car wash) nearly outnumbered petrol stations, also plenty of roadworks, potholes (maybe when the new roads are finished the potholes will be gone!?), mosques, meandering shepherds and their flock plus plenty of tortoises to close to the roads.  
 
-![x](assets/img/x.jpg)  
+![AlbaniaSum](assets/img/AlbaniaSum.jpg)  *It's always good to meet your neighbours at night*
