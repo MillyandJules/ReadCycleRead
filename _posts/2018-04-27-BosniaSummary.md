@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summary - Bosnia"
+title: "In Summary - Bosnia"
 author: The Reads
 date: 2018-04-26
 image: BosniaMap.png
@@ -28,4 +28,4 @@ tags: BIH
     
   
   **We saw**:  
-  Three border crossings, shepherds, hills and beautiful green & rocky mountains. NB: Not possible to cross the border above Slano or by Arandelovo - locals only!!  
+Three border crossings, shepherds, hills and beautiful green & rocky mountains. NB: Not possible to cross the border above Slano or by Arandelovo - locals only!!  
