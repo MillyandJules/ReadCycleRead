@@ -31,4 +31,4 @@ Ferry: 1
 **We saw**  
 Much more forest than we expected, crazy hilltop villages, at least two churches per said village, ancient monuments, tortoises on the road, beaches, olive trees, oh and lots of hills! Greece had it all.  
 
-![x](assets/img/x.jpg)  
+![GreeceSum](assets/img/GreeceSum.jpg) *Wild camp in the forest*
