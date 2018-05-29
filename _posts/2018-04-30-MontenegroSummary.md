@@ -13,7 +13,7 @@ No. days: 3 + 1 rest day
 Distance: 180 kms  
 Ascent:  2700 m 
 
-TOTAL from UK: 3293 kms (2046 miles)
+TOTAL from UK: 3293 kms (2378 miles)
 
 See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
 
