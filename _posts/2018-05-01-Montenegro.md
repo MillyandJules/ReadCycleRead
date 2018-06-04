@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kucista to Xhakaj"
+title: "Kucista to Sukobin"
 author: Milly Read
 date: 2018-05-01
 image: .jpg
