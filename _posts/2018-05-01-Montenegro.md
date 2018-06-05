@@ -3,7 +3,7 @@ layout: post
 title: "Kucista to Sukobin"
 author: Milly Read
 date: 2018-05-01
-image: Skadar.JPG
+image: MngSkadar.JPG
 tags: MNG  
 ---
 
