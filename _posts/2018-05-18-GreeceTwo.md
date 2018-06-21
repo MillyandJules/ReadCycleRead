@@ -33,7 +33,7 @@ There is so much history in Greece and particularly in this area of central Gree
 
 ![GRTMonastery](assets/img/GRTMonastery.JPG) *Osios Loukas Monastery*
 
-![GRTHives](assets/img/GRTHives.jpg) *Bee hives up on the mountain plateau.*
+![GRTHives](assets/img/GRTHives.JPG) *Bee hives up on the mountain plateau*
 
 ![GRTSwarm](assets/img/GRTSwarm.JPG) *A not so welcome swarm of bees, especially as Milly is allergic to bee stings!*
 
