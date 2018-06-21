@@ -21,7 +21,22 @@ Then the hills really start. We'd been told the Pindus hills were steep, and the
 
 Packing away a wet tent again, we were heartened by what looked like a downhill day from Panagia towards Kalambaka. Alas this was not so, the valley side traverse went up and down to pass through small villages and cross several streams running down the mountain. I couldn't really complain though, the views were stunning across the lush green forest and the villages postcard-pituresque. Like earlier in Pindos we probably only passed 5 cars all morning. Beautiful sunshine and the odd friendly tortoise spurred us on, in addtion to an iced coffee given to us by the local priest Father Christos. He had beckoned us over when we had stopped to fill our water bottles in Ampelochori. Whilst his views on women in the church were pretty conservative, his english was very good and it was the first chance we'd had to converse properly with a local. He cleared up a few confusions, including the multiple Greek spelling of the same word, such as 'Kalambaka' or 'Kalampaka' - basically there is no right way and different people translate some letters differently! He'd asked us if we were heading towards Meteroa, which we ignorantly said yes, not really knowing what this was. Wow, were we in for a treat! Finally the road passed through the last mountain village and we got a view down a wide flat valley with an incredible rock formation sticking up like a beacon in the distance. It grew and grew as we got closer. Meteroa is a phenomenal rock formation which is home to a host of monastries built precipitously on the cliffs. We managed to find a camp spot looking directly across at it and watched the sun go down and twinkling lights of Kalambaka turn on. It was a magical evening.
 
+![GRSnake](assets/img/ GRSnake.jpg) *A close shave...very nearly ran over the snake!!* 
+
+![GRChristos](assets/img/ GRChristos.jpg) *Father Christos & a rather red-faced Milly (aka Father Christmas & Rudolph!)* 
+
+![GRChurch](assets/img/ GRChurch.jpg) *The church at Ampelochori* 
+
+![GRMetOne](assets/img/ GRMetOne.jpg) *Our first view of Meteroa* 
+
+![GRMetTwo](assets/img/ GRMetTwo.jpg) *Closer to Meteroa you can see some of the monastries tucked into the rock
+
 From Kalambaka a flat valley ride awaits!! We'd stumbled into Sunday though and every supermarket was closed, even in Karditsa a pretty big town. We managed to find a small mini mart open in Anavara before heading up the hill to Smokovo Dam. It was amazingly well stocked with homemade muesli bars, a bit pricey at 1 euro each but having done over 90km already and another 10 to go they were worth their weight in gold! The market also stocked benzene fuel which we needed for our MSR stove, otherwise we would have to go onto petrol, whcich is fine but dirty and clogs up the stove much quicker. It's equivalent to white gas and the first time we'd seen it since Austria. The benzene came in the form of some kind of cleaning liquid so we just bought a small amount to make sure it worked - which it did so we stocked up further down the road.
+
+
+![GRBenzene](assets/img/ GRBenzene.jpg) *Benzene - pure white gas that works a dream on the MSR Dragonfly* 
+
+![GRDam](assets/img/ GRDam.jpg) *Smokovo Dam* 
 
 Our first week in Greece has been tough riding but on the most beautiful quiet roads. The forests were incredibly lush and green, which explained the daily rain! From my perspective (as someone who enjoys the views from hills but am defintely in the slow and steady camp) it's a good idea to have some hill preparation before tackling Pindos National Park. If we'd had more time it would have been nice to stay in some of the villages along the way and maybe do some walks as well. On to explore the hopefully drier lands of Central Greece...
 
