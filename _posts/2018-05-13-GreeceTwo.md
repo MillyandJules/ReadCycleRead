@@ -13,7 +13,7 @@ It's been hot riding in Greece, even though it's still only late Spring, so we'v
 
 Leaving Smokovo Dam our route continued up and then along the valley side, undulating up and down with views across vast flat farmlands of wheat and olives and across to the bays of the Aegean Sea. Taking the secondary road to avoid State Highway 3 we climbed up to Eleftherochori village passing a WW1 memorial dedicated to the Australian troops who had fought in this area. Just before the village a car passed us whilst we were stopped for a break, and a large bearded man with a big smile got out and came to shake our hands. He spoke no English and we spoke no Greek but managed to gather from alot of pointing and shooting actions that this area was a big part of the partisan movement in WW1 and lots of Antipodean soldiers joined the Greek resistance here. We waved our goodbyes (several times) before hitting the road again which was cut deep into the valley sides and made for spectacular riding. Five minutes down the road our new friend's car appeared again. He insisted we stop for a break. Having booked our ferry tickets to Crete the day before we were under a bit of time pressure and reluctant to stop again, but going with the flow we stopped by the village fountain where our friend proceeded to get out from his car some plastic cups with what looked like a large black olive floating in a black sambuca-like liquid, a small fork and some napkins. Jules took a tentative bite, whilst our friend flexed his biceps and presumably said something like 'to make you strong'! The flavour was defintely aniseed and sweet and the texture like a chewy dried fruit. More sign language and he showed us the tree where the 'fruit' grew. We later found out it was walnuts, never would have guessed, but of course from that moment on we saw walnut trees everywhere!
 
-![GRTLamia](assets/img/GRT.Lamia) *View down to Lamia*
+![GRTLamia](assets/img/GRTLamia.jpg) *View down to Lamia*
 
 ![GRTSea](assets/img/GRTSea.JPG) *Our first glimpse of the Aegan Sea*
 
@@ -33,7 +33,7 @@ There is so much history in Greece and particularly in this area of central Gree
 
 ![GRTMonastery](assets/img/GRTMonastery.JPG) *Osios Loukas Monastery*
 
-![GRTHive](assets/img/GRTHive.jpg) *Bee hives up on the mountain plateau.*
+![GRTHives](assets/img/GRTHives.jpg) *Bee hives up on the mountain plateau.*
 
 ![GRTSwarm](assets/img/GRTSwarm.JPG) *A not so welcome swarm of bees, especially as Milly is allergic to bee stings!*
 
@@ -50,7 +50,3 @@ I lied, one more climb, a steep one too averaging 12% to avoid the main road. Ju
 We picked up our tickets at the Anek Lines main office which is air conditioned and has a good waiting area. We made full use of this until the office closed at 6pm. The ferry terminal is huge and the waiting area there was full of homeless people so we found a quiet corner (by the bins!!) to wait until we could board at 8pm. The race was then on to find a patch to lay our sleeping mats for the overnight crossing. The ferry was pretty busy and most of the indoor spots had been taken already, but we managed to find an area under the stairs in the sheltered outdoor bar. It couldn't have been more perfect in the end after discovering that the nearest WCs also had hot showers!! The ferry set off just after 10pm and arrived in Crete around 6:30 am - with an eye mask and ear plugs we both got a decent 7 hour sleep :)
 
 ![GRTFerry](assets/img/GRTFerry.jpg) *Our ferry camp - it was a good spot!*
-
-
-
-![GRT](assets/img/GRT.jpg) *xx*
