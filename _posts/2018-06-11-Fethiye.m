@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fethiye to Antalya Göreme - Cappadocia"
+title: "Fethiye to Antalya"
 author: Milly Read
 date: 2018-06-11
 image: .jpg
