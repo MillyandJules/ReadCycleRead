@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erzincan to Çildr"
+title: "Erzincan to Çildr"o
 author: Milly Read
 date: 2018-06-30
 image: .jpg
@@ -9,7 +9,7 @@ tags: TR
 
 ![X](assets/img/x.jpg) *x*
 
-Avoiding the D100 out of Erzincan we headed for the mountains and our highest pass on tour so far at 2390m abobe sea level. This, despite the army guys at the bottom trying to re-route us to the motorway because the mountain road was 'too steep' and 'road not good'. It was a great climb, 1200m straight up, asphalt for most of the way and gravel at the top which made for a beautiful contrast in colours from the lush green pastures, grey road, and red, yellow, and purple rocks around with glistening silver streams and waterfalls breaking through the fields. 
+Avoiding the D100 out of Erzincan we headed for the mountains and our highest pass on tour so far at 2390m above sea level. This, despite the army guys at the bottom trying to re-route us to the motorway because the mountain road was 'too steep' and 'road not good'. It was a great climb, 1200m straight up, asphalt for most of the way and gravel at the top which made for a beautiful contrast in colours from the lush green pastures, grey road, and red, yellow, and purple rocks around with glistening silver streams and waterfalls breaking through the fields. 
 
 The road surface is pretty average from the top of the climb until Bespinar and there wasn't much water around. The fountain at the Çamur Köyü mosque was dirt brown so we asked around and got shown up a muddy track to a clear spring fountain where we met Tacettin visiting his parents from Erzincan. He asked us in for çay and before we knew it his daughters Figen and Handan had cooked up the most incredible omlette we had ever eaten. Camping amongst the wildflowers that we felt truely lucky to be alive, to be fit enough to make this trip and so grateful to the people both back home and who we have met on the road who helped make this all happen.
 
