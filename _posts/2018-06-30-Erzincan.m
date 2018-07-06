@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Erzincan to Çildr"
+author: Milly Read
+date: 2018-06-30
+image: .jpg
+tags: TR
+---
+
+![X](assets/img/x.jpg) *x*
+
+Avoiding the D100 out of Erzincan we headed for the mountains and our highest pass on tour so far at 2390m abobe sea level. This, despite the army guys at the bottom trying to re-route us to the motorway because the mountain road was 'too steep' and 'road not good'. It was a great climb, 1200m straight up, asphalt for most of the way and gravel at the top which made for a beautiful contrast in colours from the lush green pastures, grey road, and red, yellow, and purple rocks around with glistening silver streams and waterfalls breaking through the fields. 
+
+The road surface is pretty average from the top of the climb until Bespinar and there wasn't much water around. The fountain at the Çamur Köyü mosque was dirt brown so we asked around and got shown up a muddy track to a clear spring fountain where we met Tacettin visiting his parents from Erzincan. He asked us in for çay and before we knew it his daughters Figen and Handan had cooked up the most incredible omlette we had ever eaten. Camping amongst the wildflowers that we felt truely lucky to be alive, to be fit enough to make this trip and so grateful to the people both back home and who we have met on the road who helped make this all happen.
+
+In Bayburt we stopped for pide and çay in the park. Bayburt was once an important town on the Silk Road route linking the Black Sea to the Gulf of Basra. It has an impressive castle built high above the current day town which is sprawling out of the river gorge. The region is home to the Baksi Museum, a contemporary arts museum which must be one of the most isolated museums in the world. Built near a small village amongst rolling valleys of wildflowers and bee hives the gallery aims to be a center of cultural interaction bringing together traditional and contemporary arts. 
+
+From Ispir the landscape suddenly changes quite dramatically as you enter an incredible rocky gorge, no vegetation whatsoever. Not a natural phenomenon as indicated by the beautifully new smooth roads and 'Danger, do not swim! Do not fish!' signs lining the road. This area is part of the controversial Çoruh River dam project aiming to build 13 dams in total, with two built and two under construction displacing some 30,000 people and threatening local habitats which are home to brown bear, wolves, chamois and the persian squirrel to name just a few of the mammal species that are listed on the nationally endangered list. Most controversial is perhaps the Yusufeli Dam which proposed to flood the town of Yusufeli, home to 7,000 people and of cultural significance with old Georgian churches and many traditional homes and customs still practised. It's also a popular tourist spot with stunning scenery, culture, wildlife and rafting trips offered. Amec and Spie, a British and French contractor, pulled out of the project in 2002 due to growing protests both local and international, and a campaign led by Friends of the Earth.  
+
+It's difficult to find recent reports on the project, but we heard that a campaign had been successful to save Yusufeli. Its surrounding villages however are unlikley to be so lucky. After heading through three new tunnels out of Yusufeli (dark, stuffy, noisy) we came to a crossroads, with tunnels and trucks in all directions, argh! On our map there were at least 5 proposed new tunnels in the direction of Artvin, which was the route we had originally wanted to take, as Artvin - Ardahan is supposed to be a beautiful road.  However, even Google can't keep up with the rate that Turkey's new roads are being built, and judging from where we'd just come we were pretty sure they had been built. We asked a local ' Tunneli, how many?' gesturing 1,2, 3, 4 on our fingers. He held out both hands, opening and closing them three times...10, 20, 30! OK, decision made, not going to Artvin!! We headed towards Göle instead down a lush green valley soon to be flooded we imagine as high above us some crazy new tunnels were being built - cyclists beware!
+
+As we headed further north-east we noticed dwellings bcoming more basic, rural communities more prevalent and farming large herds on horseback. 'Welcome to Kurdistan' someone shouted near Arpaçay. That explained a lot but also saddened us. This definitely felt like the forgotten part of Turkey, yet the locals could not have been more hospitable.
+
+We took the quiet, gravel track around Lake Çildir. Totally worth it for the swim! After spending the rest of our Turkish Lira stocking up on food in Çildir we headed up the hill towards the Georgian border. At the top there are a number of picnic huts in the forest, completely random, and absolutely ideal for camping. Dry, spacious and comfortable, a perfect last night in Turkey.
