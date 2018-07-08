@@ -46,7 +46,7 @@ Hole in thermorest, on day 8! Patched up nicely.
 Screw on Jules Shimano sandal cleat  
 Jules' rear mudguard rivets sheared off from rocks on road -fixed with cable ties.  
 Jules' rear mudguard flap came loose - fixed with cable ties.  
-Jules' bottem bracket came loose - once in Switzerland and again in Albania.  
+Jules' bottom bracket came loose - once in Switzerland and again in Albania.  
 
 **No. punctures:**  
 Milly: 0  
