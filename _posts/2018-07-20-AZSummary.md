@@ -17,4 +17,4 @@ See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread
 
 
 
-![AZSum](assets/img/AZSum.jpg)
+![AzSum](assets/img/AzSum.JPG) *A common companion on the road - you give these guys all the room they need!*
