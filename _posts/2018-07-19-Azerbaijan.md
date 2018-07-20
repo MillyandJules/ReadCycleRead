@@ -13,26 +13,29 @@ Crossing the border it suddenly got very humid and the vegetation changed to mor
 
 ![AzForest](assets/img/AzForest.JPG) *A surprising amount of forest in nort-western Azerbaijan*  
 
-![AzPresident](assets/img/AzPresident.jpg) *Peek-a-boo! Portraits of the President pop up everywhere. In power since 2003 you'd think everyone would know who he is by now!*  
+![AzPresident](assets/img/AzPresident.JPG) *Peek-a-boo! Portraits of the President pop up everywhere. In power since 2003 you'd think everyone would know who he is by now!*  
 
+![AzRiver](assets/img/AzRiver.JPG) *Meandering streams run down huge dry river beds*  
 
+![AzCows](assets/img/AzCows.JPG) *Despite locals protests we managed to fin 10km of off-road track near Oguz, the bumps were worth it for the peace and quiet*
 
-
-
-
-Passing the tobacco fields near Zaqatala we arrived pretty ruined at Ilgars Guesthouse in Sheki in 44 degree heat and were doused with buckets of cold water! We treated ourselves to a meal out (early birthday day celebration for me) and went to Gagarin restaurant to sample Azeri cuisine. We chose the right place, although my vegetarian tendencies went out thw window! Fresh dolmas (Vine leaves wrapped around muton rice and spices cooked in a clay pot), spicy potato cakes, dovja (cold yogurt soup), and the piece de resistance, piti (lamb and chickpea stew cooked in a clay pot. The lamb fat is scraped off the top and juices poured out as soup. The fat is then mixed back in with the lamb and dished out separately. Luckily our waiter took us through all the motions!)
+Passing over vast dry river beds and the tobacco fields near Zaqatala we arrived pretty ruined at Ilgars Guesthouse in Sheki in 44 degree heat and were doused with buckets of cold water! We treated ourselves to a meal out (early birthday day celebration for me) and went to Gagarin restaurant to sample Azeri cuisine. We chose the right place, although my vegetarian tendencies went out thw window! Fresh dolmas (Vine leaves wrapped around muton rice and spices cooked in a clay pot), spicy potato cakes, dovja (cold yogurt soup), and the piece de resistance, piti (lamb and chickpea stew cooked in a clay pot. The lamb fat is scraped off the top and juices poured out as soup. The fat is then mixed back in with the lamb and dished out separately. Luckily our waiter took us through all the motions!)
 
 Ilgar helped us complete our registration (mandatory for all tourists who stay in Azerbaijan for 10 days or more). It took longer than we hoped as the site only accepts jpg copies of your visa, although the e-visa they issue you is a pdf! We got there in the end and were fuelled on in the afternoon by çay and fruit leather stalls which started to pop up everywhere, It's fair to say we enjoyed the Azeri tea culture even more than we had in Turkey. The tea here is stronger, served with lemon and comes in a pot for re-fills: tick, tick and tick! Many of the roadside tea houses are also tucked under trees just off the main road providing the perfect break from traffic and sun.  
 
 About 100kms out of Baku the landscape changes from forest to desert scrubland pretty quickly. With little cover for camping we asked a local restaurant if we could camp in their garden, which was full of the typical picnic tables and huts. They not only welcomed us with open arms but also bought us tea, watermelon bread and cheese, absolute legends. 
 
-![AzFerris](assets/img/AzFerris.jpg) *Only in Azerbaijan would you see a ferris wheel in the middle of semi-desert scrub!*
+![AzPiti](assets/img/AzPiti.jpg) *A must-try Azerbaijani dish - Piti*
+
+![AzFruit](assets/img/AzFruit.JPG) *Colourful fruit leather for sale alongside fresh fruit, pickles and honey*
+
+![AzHighway](assets/img/AzHighway.JPG) *Only in Azerbaijan would you see a ferris wheel in the middle of semi-desert scrub!*
 
 Before reaching Baku we were to recieve one last act of kindness, one I will never forget, never be able to repay and will be forever grateful for. We'd aimed to camp just outside Baku city in order to navigate the busy streets with fresh legs the next day. However as we neared the Lake Ceyranbatan, looking for the best patch of forest to camp in we noticed not just one, but two security fences surrounding the lake, complete with security cameras and lights! Riding around the to gates we asked security if we could camp here or somewhere nearby. There was no way theynwould let us into the lake compound - it turns out it is a reservoir for Baku's drinking water and is protecyed to avoid contamination. This seems a huge shame as it would make a perfect public park, of which there are few until you enter the city centre. Whilst we were going back on forth using google translate with the security officer a group of nearby construction workers came over to see what all the fuss was about. On hearing what we needed Elkan, the lead engineer, told us we could sleep at his place 2kms down the road. He spoke no English so more back and forth with the security guards to make sure we weren't being sold up the river. Elkan took us in like his children, showed us the shower, gave us his bed, took us for food and showed us around Sumquayit a flashy northern suburb on the Caspian coast. He refused payment, so we left what we could spare, some food and coffee. This experience is just one of many instances where we have been made to feel so welcome in a country so far from home. It is these experiences that really make your trip, teach you about the country you're in and restore your faith in humanity.  
 
 Back on the bikes we took the JRQR (Julian Read Quiet Route) into Baku via the back streets, over gas pipelines and down gravel tracks before passing lush green parks and gold studded new apartments. Baku is a burgeoning city, reaping the rewards of the money bought in from the oil fields you can make out on the horizon of the Caspian Sea. Recent inflation is angering some however and their political situation seems even worse than Turkey's, with the current president in power since 2003, when he was sworn in by his father.  
 
-![AzBakuBack](assets/img/AzBakuBack.jpg) *The backstreets of Baku*  
+![AzBakuBack](assets/img/AzBakuBack.JPG) *The backstreets of Baku*  
 
 ![AzBaku](assets/img/AzBaku.jpg) *Old meets new, the Şəhidlər Xiyabani Mosque in front of the Flame Towers*
 
