@@ -7,10 +7,30 @@ image: GeorgiaMap.png
 tags: GE
 ---
 
+**We cycled**  
+From: Aktas Sinir Kapisi to Matsimi  
+No. days: 12 days (including 3 rest days in Tblisi)  
+Distance: 456 kms (283 miles)  
+Ascent: 4941 metres  
 
+TOTAL from UK: 7076 kms (4397 miles)  
 
 See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
 
+**We slept**  
+Tent: 7 nights  
+Hostel/Guesthouse: 4 nights  
+
+**We ate & drank**  
+Giant lavash breads  
+Khachapuri (traditionally boat shaped bread filled with egg and cheese, or else stuffed with spinach, onions, potatoes etc - a cyclists dream lunch)  
+Khinkali (large Georgian dumplings)  
+Aubergines stuffed with walnut paste  
+Pomegranates  
+Local wine (we missed out on the chacha - local Georgian 'vodka')  
+
+**We saw**  
+Loads of butterflies in the forests, plenty of cooling streams, a lot of gravel roads and quite a few other cycle tourers.  
 
 
-![GESum](assets/img/GESum.jpg)
+![GEKhinkali](assets/img/GEKhinkali.jpg) - *a welcome surprise offering of khinkali and stuffed khachapuri*  
