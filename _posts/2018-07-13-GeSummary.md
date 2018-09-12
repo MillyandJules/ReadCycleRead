@@ -27,6 +27,7 @@ Khachapuri (traditionally boat shaped bread filled with egg and cheese, or else 
 Khinkali (large Georgian dumplings)  
 Aubergines stuffed with walnut paste  
 Pomegranates  
+Taragon lemonade  
 Local wine (we missed out on the chacha - local Georgian 'vodka')  
 
 **We saw**  
