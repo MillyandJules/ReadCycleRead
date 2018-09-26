@@ -3,11 +3,13 @@ layout: post
 title: "Samarkand to Tajikistan border"
 author: Milly Read
 date: 2018-09-24
-image: UZPlane.jpg
+image: UZdome.jpg
 tags: UZB
 --- 
 
 After a summer of fun, family, friends and weddings back in the UK we continue our trip from Samarkand. Our flight from London Gatwick went via Istanbul, where we switched from Turkish Airlines to Uzbekistan Air. We'd had to pay £80 per bike in London and then got told in order to board our second plane we had to pay for our bikes again. This seemed outrageous consudering the amount already paid and the minimal excess we had, a small bag weighing 16kg. After kicking up quite a fuss and nearly missing our flight they let us on, still no idea whether the extra charge was official or not! 
+
+![UZPlane](assets/img/UZPlane.jpg) *Landing at dawn in Samarkand*
 
 I was a bit nervous about passing the Uzbekistan customs as they have tight restrictions on pharmaceuticals and other items of high value, but we got waved right past the scanners and out into the morning sun. Samarkand airport is small and quiet, no-one bothered us outside as we slowly built our bikes up and rode the short distance to our hostel in the city.
 
