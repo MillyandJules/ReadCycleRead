@@ -23,7 +23,7 @@ We spent a few days walking around Samarkand and catching up with other cyclists
 
 ![UZRegistan](assets/img/UZRegistan.jpg) *The Sher-Dor Madrasah at sunset* 
 
-![UZwedding](assets/img/UZweddin.jpg) *One of the many couples posing for wedding photos outside the Registan*
+![UZwedding](assets/img/UZwedding.jpg) *One of the many couples posing for wedding photos outside the Registan*
 
 ![UZmausoleum](assets/img/UZmausoleum.jpg) *The Amir Temur Mausoleum*
 
