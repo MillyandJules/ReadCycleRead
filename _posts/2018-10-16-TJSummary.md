@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Summary"
+title: "Tajikistan Summary"
 author: The Reads
 date: 2018-10-17
 image: TajikMap.png  
-tags: TR
+tags: TJ
 ---
 
 **We cycled**  
