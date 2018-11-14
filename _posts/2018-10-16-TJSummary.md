@@ -8,7 +8,7 @@ tags: TJ
 ---
 
 **We cycled**  
-From: Pangakent to Kulma Pass 
+From: Pangakent to Kulma Pass  
 No. days: 21.5 (2.5 rest days)  
 Distance: 1,200 kms (745 miles)  
 Ascent: 14,425 m  
