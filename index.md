@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![welcome](assets/img/CoverPhoto.jpg)
+![welcome](assets/img/WLTFrontPage.jpg)
 
 Welcome to Read Cycle Read! 
 
