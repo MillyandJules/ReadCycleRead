@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Samarkand to Tajikistan border"
+title: "Samarkand to Tajikistan border - The Silk Road starts"
 author: Milly Read
 date: 2018-09-24
 image: UZdome.jpg
