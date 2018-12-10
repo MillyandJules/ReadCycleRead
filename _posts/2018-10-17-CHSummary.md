@@ -3,11 +3,11 @@ layout: post
 title: "Summary"
 author: Milly Read
 date: 2018-10-18
-image: CHMap.png
+image: CHMap.jpg
 tags: CHI
 --- 
 
-**We cycled**
+**We cycled**  
 From: Kulma Pass to Tashkurgan  
 No.days: 1.5  
 Distance: 74 kms (46 miles)
@@ -20,7 +20,7 @@ See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread
 **We slept**  
 In a strange health club lounge...see blog!  
 
-**We ate**
+**We ate**  
 Not much, although managed to find some dumplings for breakfast.  
 
 **We saw**  
