@@ -26,4 +26,4 @@ Not much, although managed to find some dumplings for breakfast.
 **We saw**  
 A lot of police signs, barbed wire fences and Chinese tourists. A mix of Han Chinese and Uighur Muslims. Yaks, cold and snow. Steaming hot dumplings cooked over the fire were the highlight.
 
-![CHPass](assets/img/CHPass.JPG)*Looking up from the bus to the imposing Khunjerab Pass at 4700m above sea level *  
+![CHPass](assets/img/CHPass.JPG)*Looking up from the bus to the imposing Khunjerab Pass at 4700m above sea level*  
