@@ -17,23 +17,36 @@ We knew we'd have a few days respite before hitting the police escorts and the w
 
 ![PKRivers](assets/img/PKRivers.JPG) *The confluence of the Gilgit and Indus Rivers*  
 
+![PKView](assets/img/PKView.jpg) *One of the many incredible mountain views* 
+
 ![PKBadRoad](assets/img/PKBadRoad.jpg) *The road deteriorating past Raikot Bridge*  
 
 We made it to Chilas early afternoon. The police station and checkpoint is on the main road just past the turn off to the main town which snakes uphill. The police informed us we'd be escorted from here and asked us when we'd like to leave. As Jules was feeling unwell we asked to camp there one night and leave in the morning, of which they were more than happy to oblige. We got a personal driver up the hill to the bank and to a local hotel for supper too! The town did not feel unsafe, we got the usual stares, but I reckon this was heightened by the police presence. The next morning we got a derney from a member of the ATS (Anti-terrorist Squad). He was a nice guy, spoke good English and we shared breakfast (egg, parathas & chai) after 20km before he left us for the next cops to pick us up. That afternoon we experienced the huge downside to the escorts...not being allowed to stop where we like for lunch, being driven from checkpoint to checkpoint and being forced to stay in a pretty ropey hotel (at least we got a decent price). It was almost as tiring lugging the bikes and bags on and off the vans as cycling, and I think we all feared for our lives screaming down the mountain road into Dassu in the dark, police sirens blaring and the driver not stopping for any truck, bike or car, not caring two cents about the vans chassis being knocked all over the place, let alone his passengers in the boot!  
 
-![PK](assets/img/PK.jpg) *  *  
+![PKATS](assets/img/PKATS.jpg) *A member of the ATS providing our first police escort derney*  
 
+The next morning we were allowed to cycle (with the police following) for a good 35kms from Komilla to Pattan (home of famous cricketer Shahid Afridi). The landscape here is completely different with steep sided hills that the roads snakes perilously across, looking out onto terraced slopes and houses built at impossible and seemingly inaccessible heights. From Patten we had several truck transfers to Besham where we were dropped at the PTDC Motel, hoping we could camp as we had in the Gilgit branch. Sadly not, we negotiated hard on price and ended up staying twould nights as all three of us fell ill overnight. Grim!
 
-![PK](assets/img/PK.jpg) *  *  
+![PKKomila](assets/img/PKKomila.JPG) *View back up valley towards Komila* 
 
-The next morning we were allowed to cycle (with the police following) for a good 35kms from Komilla to Pattan (home of famous cricketer Shahid Afridi). The landscape here is completely different with steep sided hills that the roads snakes perilously across, looking out onto terraced slopes and houses built at impossible and seemingly inaccessible heights. From Patten we had several truck transfers to Besham where we were dropped at the PTDC Motel, hoping we could camp as we had in the Gilgit branch. Sadly not, we negotiated hard on price and ended up staying twould nights as all three of us fell ill overnight. Grim! 
+![PKTerraces](assets/img/PKTerracaes.jpg) *  * 
+
+![PK](assets/img/PK.jpg) *  * 
+
 
 Back on the road we were free for the first half of the morning until Thackot. We got a friendly bunch though who let us cycle the long 1400m ascent uphill, a beautiful ride up through forest to Chattar Plains. They their passed on their patience and good will as we were transferred between two more police escorts before reaching the top and sleeping. Again we were allowed a morning ride downhill but on approaching Manshera the traffic worsened and the police lost patience in trying to keep us together. We got driven all the way to Abottobad (with at least 3 more van swaps) before insisting we could cycle the final 2kms to Mohammad's house. They still followed us there. 
 
 The majority of areas we cycled through all seemed safe and locals were friendly. The escorts did seem like overkill. It was nice to ride without our panniers at times, but as I was always at the back I got pretty sick of hearing the police car engine right behind me, and pretty frustrated with comments such as 'why so slow?' 'catch your friends'! It definitely helped us make up some time after taking a few sick days though and it's certainly been an experience. 
 
+Mohammad is a friend of friends we met in Sost and very kindly offered to host us for the night. One night turned into three and we can safely say we have a new life long friend! We were overwhelmed at the hospitality and generosity of Mohammad and his family, taking in weary strangers, accepting us at their family wedding and feeding us until we were fit to burst! It was such an honour to be invited to Haleema's Mendhi celebrations, and evenue to get involved in the preparations, decorating the wedding car and filling up henna pots. Mendhi refers to the elaborate henna tattoos the bride wears on her arms and feet. The ceremony involves lots of dancing, and mainly girls attend, although their were also men at the party. The Jadoon family are all great dancers, I felt very inept next to them, but they patiently taught me a few moves. I just about got the Loothi dance where everyone forms a circle and moves clockwise clapping hands down in the middle and then up in the air. There was so much colour, laughter and dance. The boys were taken out at various times, including to eat, but I was never left alone for long! The Pakistanis sure know how to throw a party, and not a drop of alcohol involved. Couldn't have been more different from an English wedding, although I feel like my dancing may have improved with a G&T or two!!  
 
-Mohammad is a friend of friends we met in Sost and very kindly offered to host us for the night. One night turned into three and we can safely say we have a new life long friend! We were overwhelmed at the hospitality and generosity of Mohammad and his family, taking in weary strangers, accepting us at their family wedding and feeding us until we were fit to burst! It was such an honour to be invited to Haleema's Mendhi celebrations, and evenue to get involved in the preparations, decorating the wedding car and filling up henna pots. Mendhi refers to the elaborate henna tattoos the bride wears on her arms and feet. The ceremony involves lots of dancing, and mainly girls attend, although their were also men at the party. The Jadoon family are all great dancers, I felt very inept next to them, but they patiently taught me a few moves. I just about got the Loothi dance where everyone forms a circle and moves clockwise clapping hands down in the middle and then up in the air. There was so much colour, laughter and dance. The boys were taken out at various times, including to eat, but I was never left alone for long! The Pakistanis sure know how to throw a party, and not a drop of alcohol involved. Couldn't have been more different from an English wedding, although I feel like my dancing may have improved with a G&T or two!!
+![PK](assets/img/PK.jpg) *  * 
+
+![PK](assets/img/PK.jpg) *  * 
+
+![PK](assets/img/PK.jpg) *  * 
+
+![PK](assets/img/PK.jpg) *  * 
 
 It was very hard to say goodbye to Mohammad and his family. They have treated us as part of their extended family and we couldn't be more grateful. They have shown us a part of Pakastani life, community and culture that we could never have experienced otherwise. Hopefully we will catch up with them again in Islamabad whilst waiting for our Indian visas, and who knows maybe again in the future. Inshallah.  
 
