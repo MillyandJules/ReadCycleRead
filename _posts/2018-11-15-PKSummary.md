@@ -7,7 +7,7 @@ image: PKMap.png
 tags: PK
 ---
 
-*The green line denotes where we have cycled, the orange line where we have taken a bus or been forced into a police van. The red line was the original proposed route, changed due to early snowfall closing off the Babusar Pass.*
+*The green line denotes where we have cycled, the orange line where we have taken a bus or been forced into a police van. The red line was the original proposed route, changed due to early snowfall closing off the Babusar Pass. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail*
 
 
 **We cycled**  
