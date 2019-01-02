@@ -59,6 +59,10 @@ The Jadoon family are all great dancers, I felt very inept next to them, but the
 
 ![PKMnJ](assets/img/PKMnJ.jpg) *We scrubbed up alright! Photo credit to Bilal Studios* 
 
-![PKFamily](assets/img/PKFamily.jpg) *From left to right: Damien, Rubina, Jules, Mohammad, Milly* 
+![PKFamily](assets/img/PKFamily.jpg) *From left to right: Damien, Rubina, Jules, Mohammad, Milly*   
+
+**Finally**  
+
+If you've heard of Abottobad but can't quite remember why, it may be that you saw it on the news back in May 2011 as US troops swooped in and claimed to have killed Osama Bin Laden. Some locals here still claim his death was a hoax, but either way it changed the course of history. Mohammad remembers waking up to the sound of helicopters flying over. He, like many Pakastanis are grateful for the military efforts of the US in fighting terrorism and are hopeful that more tourists will come to visit their country as the aftershocks from 9/11 wear away. 
 
 It was very hard to say goodbye to Mohammad and his family. They have treated us as part of their extended family and we couldn't be more grateful. They have shown us a part of Pakastani life, community and culture that we could never have experienced otherwise. Hopefully we will catch up with them again in Islamabad whilst waiting for our Indian visas, and who knows maybe again in the future. Inshallah.  
