@@ -7,11 +7,14 @@ image: CHMap.jpg
 tags: CHI
 --- 
 
+*The green line denotes where we have cycled, the orange line where we have been forced into a police van. The red line was the original proposed route*
+
+
 **We cycled**  
 From: Kulma Pass to Tashkurgan  
 No.days: 1.5  
-Distance: 74 kms (46 miles)
-Ascent: 200 m 
+Distance: 74 kms (46 miles)  
+Ascent: 200 m   
 
 TOTAL from UK: 8878 kms (5,516 miles)
 
