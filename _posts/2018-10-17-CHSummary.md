@@ -7,7 +7,7 @@ image: CHMap.jpg
 tags: CHI
 --- 
 
-*The green line denotes where we have cycled, the orange line where we have been forced into a police van. The red line was the original proposed route*
+*The green line denotes where we have cycled, the orange line where we have been forced into a police van. The red line was the original proposed route. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail*
 
 
 **We cycled**  
