@@ -33,7 +33,7 @@ The next morning we were allowed to cycle (with the police following) for a good
 
 ![PKKomila](assets/img/PKKomila.JPG) *View back up valley towards Komila* 
 
-![PKTerraces](assets/img/PKTerracaes.jpg) *Terraced fields on the steep slopes opposite the Karakorum Highway* 
+![PKTerraces](assets/img/PKTerraces.jpg) *Terraced fields on the steep slopes opposite the Karakorum Highway* 
 
 ![PKHotPolice](assets/img/PKHotPolice.jpg) *We've become so used to the police/military carrying guns throughout central Asia and Pakistan was no different. The guys are just doing their job and treated us with the utmost respect.* 
 
