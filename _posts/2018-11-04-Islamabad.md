@@ -38,28 +38,41 @@ The name means 'Islam abounds' and as if to back this up the city is home the ga
 
 ![PKcMonal](assets/img/PKcMonal.jpg) *Treated to desert and evening views oover Islamabad at Monal restaurant in the Margalla Hills*
 
-I was bed-ridden with sickness for our first few days and grateful to Damien's Couchsurfing contact who let us use his room whilst he was away. There is a strong Couchsurfing community in Islamabad which is great if you're up for meeting new people, exploring and don't mind being used as a trophy-piece for a few days. We had a good trip to the old city with our second host and his friend who showed us the ancient backstreets and old Hindu architecture that still survives post-partition. 
+I was bed-ridden with sickness for our first few days and grateful to Damien's Couchsurfing contact who let us use his room whilst he was away. There is a strong Couchsurfing community in Islamabad which is great if you're up for meeting new people, exploring and don't mind being used as a trophy-piece for a few days. We had a good trip to the old city Ralwapindi with our second host and his friends who showed us the ancient backstreets and old Hindu architecture that still survives post-partition. 
 
 We were lucky enough to be in town at the same time as the Lok Virsa Cultural Festival which runs for a week at the end of November. The festival celebrates each region of Pakistan with displays of local artisans, dancing, music and food. An exciting mix of colour, smiles and smells, this felt more like the Pakistan we'd seen than the sterile shopping malls of Islamabad.
 
-![PKc](assets/img/PKc.jpg) **
+![PKcCarts](assets/img/PKcCarts.jpg) *Old carts in Ralwapindi*
 
-![PKc](assets/img/PKc.jpg) **
+![PKcTrees](assets/img/PKcTrees.jpg) *Trees grow through buildings in the run down bazaars of Ralwapindi*  
+
+![PKcLokVirsa](assets/img/PKcLokVirsa.jpg) *Local crafts on show at the Lok Virsa Cultural festival*  
+
+![PKcLokVirsaEmil](assets/img/PKcLokVirsaEmil.jpg) *It was fun travelling with a blonde! Emil got even more selfie requests for photos than normal, so it seemed only fair we get one back*
 
 **Applying for an Indian visa in Pakistan**  
 
 India and Pakistan aren't the best of friends, but they do have one thing in common - their love for bureaucracy. It is not uncommon for tourists to apply for their Indian visas in Islamabad and there are two visa agents you can apply through - Gerrys Visa Services which have recently moved outside of the city, and TCS visa services. You CANNOT apply directly with the Indian Embassy, nor can you cross and land border with an e-visa. However, before heading to the visa agent of choice you must have completed the online application form. Note this is not an e-visa, just a form which then makes processing quicker on receipt of your passport (in theory). Also  note than when trying to access this form on the Indian Government website, you may have difficulties if going through a Pakastani IPN address like we did. Luckily we were staying with Mohammad who had a VPN portal allowing us to access the website through a different country code. On completion you recieve a registration number which you must take with your passport, two printed copies of the online form, two passport photos and proof of your Polio vaccination. 
 
-From here youd think it would be a simple process, you've basically done all of the hard work for them. The website advertises a 3 day turn around, however TCS told us to expect anything between 5 days and 3 weeks. Not music to our ears as our Pakistan visa expires in 10 days and we need to get to Lahore!  Whilst waiting we met up with another cyclist Emil, from Denmark who was also on a tight time frame and had submitted his visa application on the Tuesday, a day after us. We called the embassy every day with no response and finally decided to visit the Diplomatic Enclave and see if we could pick up our passports in person, we all wanted to leave before the weekend. The Enclave is a strange place, we managed to back-door entry with our Couchsurfing host who worked there, otherwise you need to pay 500 rupees (£3) at the gate for the privilege of being driven to your embassy of choice. Disappointingly the embassy had only just received our application - this being 3 full working days post submitting to TCS who are located 2kms away, argh!!!!!
+From here you'd think it would be a simple process, you've basically done all of the hard work for them. The website advertises a 3 day turn around, however TCS told us to expect anything between 5 days and 3 weeks. Not music to our ears as our Pakistan visa expires in 10 days and we need to get to Lahore!  Whilst waiting we met up with another cyclist Emil, from Denmark who was also on a tight time frame and had submitted his visa application on the Tuesday, a day after us. We called the embassy every day with no response and finally decided to visit the Diplomatic Enclave and see if we could pick up our passports in person, we all wanted to leave before the weekend. The Enclave is a strange place, we managed to back-door entry with our Couchsurfing host who worked there, otherwise you need to pay 500 rupees (£3) at the gate for the privilege of being driven to your embassy of choice. Disappointingly the embassy had only just received our application - this being 3 full working days post submitting to TCS who are located 2kms away, argh!!!!!
 
 To cut a long story short we eventually got them the following Tuesday, so 6 working days post submission and 5 days for Emil. Lucky we were with him as our SCOM SIM cards failed to work so we never got the call to collect. 
 
 **Lahore and the Wagah border crossing**
 
-The three of us left that morning after quickly packing and riding to the bus station. We all had to leave Pakistan by the next dayto avoid overstaying (although we heard a two-week grace period is acceptable we weren't keen to risk it!) We paid 1070 rupees (£6.50) per ticket and an extra 600 rupees each for the bikes, of which all protesting fell on deaf ears. It was a good bus service with water, snacks and a break halfway although it took 5 1/2 hours to travel 350kms so we arrived on nightfall and slept at the nearest hotel.
+The three of us left that morning after quickly packing and riding to the bus station. We all had to leave Pakistan by the next day to avoid overstaying (although we heard a two-week grace period is acceptable we weren't keen to risk it!) We paid 1070 rupees (£6.50) per ticket and an extra 600 rupees each for the bikes, of which all protesting fell on deaf ears. It was a good bus service with water, snacks and a break halfway, although it took 5 1/2 hours to travel 350kms so we arrived on nightfall and slept at the nearest hotel.
 
-Cycling out of Lahore was an experience, bracing ourselves for the traffic of India! We had the best time in Pakistan but the past week of waiting and sickness has really left us wanting to move on. I'd love to return to the mountains and to stay with friends we made there. So it's goodbye for now Pakistan, but we'll be back I'm sure. 
+Cycling out of Lahore was an experience, bracing ourselves for the traffic of India! 
+
+![PKcLahore](assets/img/PKcLahore.jpg) *Jules managed to find some quiet paths in Lahore, but the roadside stench here was nearly as unbearable as the traffic elsewhere*
+
+![PKcTuktuk](assets/img/PKcTuktuk.jpg) *Emil managed to hitch a ride half-way to the border*
+
+![PKcBangles](assets/img/PKcBangles.jpg) *Always a good variety of vehicles on the road*  
+
+![PKcWagah](assets/img/PKc.jpg) *This is it, cycling to the famous Wagah border*
+
+![PKcBorder](assets/img/PKc.jpg) *Hardly even 1 meter of no-man's land between Pakistan and India at their most rivalled public border crossing*
 
 
-
-![PK](assets/img/PK.jpg)
+We had the best time in Pakistan but the past week of waiting and sickness has really left us wanting to move on. I'd love to return to the mountains and to stay with friends we made there. So it's goodbye for now Pakistan, but we'll be back I'm sure. 
