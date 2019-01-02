@@ -7,19 +7,44 @@ image: PKcHelva.jpg
 tags: PK
 ---
 
+*Sweet sticky semolina helva. Served with roti, puri, or just eaten straight from the tea spoon*
+
 **Cycling into the capital city**  
 
-Whilst it's only 110km from Abottobad to Islamabad we opted to cycle over two days which allowed us a relaxed morning in Abottobad and an early finish in the big city. It also allowed for any aftermath of the [**Asia Bibi**](https://www.theguardian.com/commentisfree/2018/nov/13/asia-bibi-imran-khan-pakistan-blasphemy-law) protests to cool down. We cycled our final few kms on the Karakorum Highway before turning off into the quiet countryside (just before Shah Maqsood) and through the little village of Bagra, wherewe stopped to buy roti and were treated like celebrities! Suddenly we were ushered to sit, tea and biscuits were brought out and fresh paparas cooked up for us. 
+Whilst it's only 110km from Abottobad to Islamabad we opted to cycle over two days which allowed us a relaxed morning in Abottobad and an early finish in the big city. It also allowed for any aftermath of the [**Asia Bibi**](https://www.theguardian.com/commentisfree/2018/nov/13/asia-bibi-imran-khan-pakistan-blasphemy-law) protests to cool down. We cycled our final few kms on the Karakorum Highway before turning off into the quiet countryside (just before Shah Maqsood) and through the little village of Bagra, wherewe stopped to buy roti and were treated like celebrities! Suddenly we were ushered to sit, tea and biscuits were brought out and fresh pakoras cooked up for us. 
 
-Having too much fun on the quiet country roads we didn't quite make it to Khan Pur (the next big town with hotels) before dark. Instead, we were adopted by a local villager who took us to his family home and gave us food and beds. He was fascinated with our trip and said his cousin had done something similar in walking to Germany!! He was desperate to join his cousin and seemed quite serious about attempting to get to Europe. It is difficult to advise against, his house, garden and farmland were all in good shape, but he wanted more and believed he would get rich in Europe. It is nearly impossible, with our limited Urdu and his basic understanding of English,   to explain how the concept of rich and poor differs by perspective and country. Especially as, in all likelihood, should he make it to Europe he will be living in worse conditions, working longer hours and be relatively just as poor. Grateful for his hospitality and frustrated not to be able to help more we left for a cruisy 50km cycle into Islamabad.
+![PKcBagra](assets/img/PKBagra.jpg) *Tea and biscuits in Bagra, with a crowd of course* 
+
+![PKcRide1](assets/img/PKcRide1.jpg) *Views on the quiet route to Islamabad*
+
+![PKcRide2](assets/img/PKcRide2.jpg) *Calm country roads* 
+
+Having too much fun on the quiet country roads we didn't quite make it to Khan Pur (the next big town with hotels) before dark. Instead, we were adopted by a local villager who took us to his family home and gave us food and beds. He was fascinated with our trip and said his cousin had done something similar in walking to Germany!! He was desperate to join his cousin and seemed quite serious about attempting to get to Europe. It is difficult to advise against, his house, garden and farmland were all in good shape, but he wanted more and believed he would get rich in Europe. It is nearly impossible, with our limited Urdu and his basic understanding of English, to explain how the concept of rich and poor differs by perspective and country. Especially as, in all likelihood, should he make it to Europe he will be living in worse conditions, working longer hours and be relatively just as poor. Grateful for his hospitality and frustrated not to be able to help more we left for a cruisy 50km cycle into Islamabad.  
+
+![PKcHouse](assets/img/PKHouse.jpg) *Relaxing at our friendly villagers house*
+
+![PKcWoman](assets/img/PK.jpg) *Our hostess cooking breakfast the next morning*  
+
 
 **Islamabad**  
 
-The name means 'Islam abounds' and as if to back this up the City built the Faisal Mosque, the third largest mosque in the world, after receiving funds from King Faisal of Saudi Arabia in the 1970s. The city itself is a bit of a nightmare for the average tourist. It was designed as a series of huge grids by a firm of Greek Architects, led by Konstantinos Apostolos Doxiadis. However, unlike the grids of other major cities, such as New York, there is no public transport system linking the sectors and huge four lane highways that criss-cross the grids make walking or cycling very difficult. We mainly stuck to our sector 'F9' or took a tuk-tuk or taxi if we needed to get anywhere. There is a bus which runs from the main shopping centre out to Ralwapindi. The city's saving grace is that it is clean, modern, and quite green nestled into the Margalla Hills. One whole sector 'E14'has been dedicated Fatima Jinnah Park, a nice place to explore and get away from the urban environment.
+The name means 'Islam abounds' and as if to back this up the city is home the gargantuan Faisal Mosque, the third largest mosque in the world, after receiving funds from King Faisal of Saudi Arabia in the 1970s. The city itself is a bit of a nightmare for the average tourist. It was designed as a series of huge grids by a firm of Greek Architects, led by Konstantinos Apostolos Doxiadis. However, unlike the grids of other major cities, such as New York, there is no public transport system linking the sectors and huge four lane highways that criss-cross the grids make walking or cycling very difficult. We mainly stuck to our sector 'F9' or took a tuk-tuk or taxi if we needed to get anywhere. There is a bus which runs from the main shopping centre out to Ralwapindi. The city's saving grace is that it is clean, modern, and quite green nestled into the Margalla Hills. One whole sector 'E14'has been dedicated Fatima Jinnah Park, a nice place to explore and get away from the urban environment.  
+
+![PKcMosque](assets/img/PKcMosque.jpg) *Checking out the mosque with Mohammad, visiting from Abottobad* 
+
+![PKcPark](assets/img/PKcPark.jpg) *Entering Fatima Jinnah Park*
+
+![PKcMargalla](assets/img/PKcMargalla.jpg) *We escaped into the Margalla Hills for an afternoon, beautiful fresh air*  
+
+![PKcMonal](assets/img/PKcMonal.jpg) *Treated to desert and evening views oover Islamabad at Monal restaurant in the Margalla Hills*
 
 I was bed-ridden with sickness for our first few days and grateful to Damien's Couchsurfing contact who let us use his room whilst he was away. There is a strong Couchsurfing community in Islamabad which is great if you're up for meeting new people, exploring and don't mind being used as a trophy-piece for a few days. We had a good trip to the old city with our second host and his friend who showed us the ancient backstreets and old Hindu architecture that still survives post-partition. 
 
-We were lucky enough to be in town at the same time as the Lok Virsa Cultural Festival which runs for a week at the end of November. The festival celebrates each region of Pakistan with displays of local artisans, dancing, music and food. An exciting mix of colour, smiles and smells.  
+We were lucky enough to be in town at the same time as the Lok Virsa Cultural Festival which runs for a week at the end of November. The festival celebrates each region of Pakistan with displays of local artisans, dancing, music and food. An exciting mix of colour, smiles and smells, this felt more like the Pakistan we'd seen than the sterile shopping malls of Islamabad.
+
+![PKc](assets/img/PKc.jpg) **
+
+![PKc](assets/img/PKc.jpg) **
 
 **Applying for an Indian visa in Pakistan**  
 
