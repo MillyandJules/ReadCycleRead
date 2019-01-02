@@ -13,7 +13,7 @@ tags: PK
 
 Whilst it's only 110km from Abottobad to Islamabad we opted to cycle over two days which allowed us a relaxed morning in Abottobad and an early finish in the big city. It also allowed for any aftermath of the [**Asia Bibi**](https://www.theguardian.com/commentisfree/2018/nov/13/asia-bibi-imran-khan-pakistan-blasphemy-law) protests to cool down. We cycled our final few kms on the Karakorum Highway before turning off into the quiet countryside (just before Shah Maqsood) and through the little village of Bagra, wherewe stopped to buy roti and were treated like celebrities! Suddenly we were ushered to sit, tea and biscuits were brought out and fresh pakoras cooked up for us. 
 
-![PKcBagra](assets/img/PKBagra.jpg) *Tea and biscuits in Bagra, with a crowd of course* 
+![PKcBagra](assets/img/PKcBagra.jpg) *Tea and biscuits in Bagra, with a crowd of course* 
 
 ![PKcRide1](assets/img/PKcRide1.jpg) *Views on the quiet route to Islamabad*
 
@@ -21,9 +21,9 @@ Whilst it's only 110km from Abottobad to Islamabad we opted to cycle over two da
 
 Having too much fun on the quiet country roads we didn't quite make it to Khan Pur (the next big town with hotels) before dark. Instead, we were adopted by a local villager who took us to his family home and gave us food and beds. He was fascinated with our trip and said his cousin had done something similar in walking to Germany!! He was desperate to join his cousin and seemed quite serious about attempting to get to Europe. It is difficult to advise against, his house, garden and farmland were all in good shape, but he wanted more and believed he would get rich in Europe. It is nearly impossible, with our limited Urdu and his basic understanding of English, to explain how the concept of rich and poor differs by perspective and country. Especially as, in all likelihood, should he make it to Europe he will be living in worse conditions, working longer hours and be relatively just as poor. Grateful for his hospitality and frustrated not to be able to help more we left for a cruisy 50km cycle into Islamabad.  
 
-![PKcHouse](assets/img/PKHouse.jpg) *Relaxing at our friendly villagers house*
+![PKcHouse](assets/img/PKcHouse.jpg) *Relaxing at our friendly villagers house*
 
-![PKcWoman](assets/img/PK.jpg) *Our hostess cooking breakfast the next morning*  
+![PKcWoman](assets/img/PKcWoman.jpg) *Our hostess cooking breakfast the next morning*  
 
 
 **Islamabad**  
@@ -70,9 +70,9 @@ Cycling out of Lahore was an experience, bracing ourselves for the traffic of In
 
 ![PKcBangles](assets/img/PKcBangles.jpg) *Always a good variety of vehicles on the road*  
 
-![PKcWagah](assets/img/PKc.jpg) *This is it, cycling to the famous Wagah border*
+![PKcWagah](assets/img/PKcWagah.jpg) *This is it, cycling to the famous Wagah border*
 
-![PKcBorder](assets/img/PKc.jpg) *Hardly even 1 meter of no-man's land between Pakistan and India at their most rivalled public border crossing*
+![PKcBorder](assets/img/PKcBorder.jpg) *Hardly even 1 meter of no-man's land between Pakistan and India at their most rivalled public border crossing*
 
 
 We had the best time in Pakistan but the past week of waiting and sickness has really left us wanting to move on. I'd love to return to the mountains and to stay with friends we made there. So it's goodbye for now Pakistan, but we'll be back I'm sure. 
