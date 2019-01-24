@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Plan to Cross Eurasia
+title: Our Route from UK to New Zealand 
 ---
 
 <div class="map">
