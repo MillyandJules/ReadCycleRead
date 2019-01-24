@@ -11,7 +11,7 @@ tags: PK
 
 **Cycling into the capital city**  
 
-Whilst it's only 110km from Abottobad to Islamabad we opted to cycle over two days which allowed us a relaxed morning in Abottobad and an early finish in the big city. It also allowed for any aftermath of the [**Asia Bibi**](https://www.theguardian.com/commentisfree/2018/nov/13/asia-bibi-imran-khan-pakistan-blasphemy-law) protests to cool down. We cycled our final few kms on the Karakorum Highway before turning off into the quiet countryside (just before Shah Maqsood) and through the little village of Bagra, wherewe stopped to buy roti and were treated like celebrities! Suddenly we were ushered to sit, tea and biscuits were brought out and fresh pakoras cooked up for us. 
+Whilst it's only 110km from Abottobad to Islamabad we opted to cycle over two days which allowed us a relaxed morning in Abottobad and an early finish in the big city. It also allowed for any aftermath of the [**Asia Bibi**](https://www.theguardian.com/commentisfree/2018/nov/13/asia-bibi-imran-khan-pakistan-blasphemy-law) protests to cool down. We cycled our final few kms on the Karakorum Highway before turning off into the quiet countryside (just before Shah Maqsood) and through the little village of Bagra, where we stopped to buy roti and were treated like celebrities! Suddenly we were ushered to sit, tea and biscuits were brought out and fresh pakoras cooked up for us. 
 
 ![PKcBagra](assets/img/PKcBagra.jpg) *Tea and biscuits in Bagra, with a crowd of course* 
 
