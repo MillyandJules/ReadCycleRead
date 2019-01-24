@@ -36,8 +36,6 @@ title: Our Route from UK to New Zealand
   India - mid-December  
   Myanmar - late December  
   Thailand - January 2019  
-  Vietnam  - January  
-  Cambodia - January  
-  Thailand - February  
   Malaysia - February  
   Singapore - March  
+  New Zealand - March  
