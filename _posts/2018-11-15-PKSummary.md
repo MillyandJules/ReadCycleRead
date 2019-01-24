@@ -13,11 +13,13 @@ tags: PK
 **We cycled**  
 
 From: Sost to Lahore  
-No.days: 30 days (14 days off the bike!)
-Distance: 860 kms (534 miles) 
-Ascent: 9350m 
+No.days: 30 days (14 days off the bike!)  
+Distance: 860 kms (534 miles)  
+Ascent: 9350m  
 
 No. days with police escorts: 3 - between Chilas and Abottobad - 125kms of which we were forced into a police van.   
+
+TOTAL from UK: 9738 kms  (6051 miles)
 
 See [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread - for full route details.  
 
