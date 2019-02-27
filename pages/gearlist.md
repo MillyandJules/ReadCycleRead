@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Gear List
+title: Touring Gear
 ---
+
+## Set up on leaving the UK  
+7th March 2018
 
 ![Pack](/assets/img/Pack.JPG)*The bikes loaded for the road test to Cornwall - we've used the same set up minus a few non-essential items e.g. the picnic blanket!*
 
