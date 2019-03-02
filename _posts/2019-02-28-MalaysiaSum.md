@@ -3,7 +3,7 @@ layout: post
 title: "Malaysia in Summary"
 author: The Reads
 date: 2019-02-28
-image: MalayMap.png  
+image: MLSum.png  
 tags: MLY  
 ---
 
