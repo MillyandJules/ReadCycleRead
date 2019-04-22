@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Babno Polje to Zadar"
+title: "Babno Polje to Zadar - A tortoise called Milly"
 author: Milly Read
 date: 2018-04-19
 image: Pag.JPG
@@ -29,7 +29,7 @@ Trying to avoid the main road again we took a gravel track around the salt flats
 
 ![Ritna](assets/img/Ritna.JPG) *View back to the bridge from Pag and across to Ritna where we ended up staying.*  
 
-I always believe that everything happens for a reason, and if we had not persevered on this route we would not have met Sandra and Darko atthe top who were out looking for wild asparagus. After 5 minutes of chatting they invited us to stay with them and we spent a wonderful two days with them and their family, relaxing, eating traditional Dalmatian food, hunting for wild asparagus and being shown around the beautiful Zadar city. It also gave us a chance to do a good sort and switch our wardrobes from winter to summer cycling apparel! It was an unbelievable kindness and we feel like we have made friends for life.
+I always believe that everything happens for a reason, and if we had not persevered on this route we would not have met Sandra and Darko at the top who were out looking for wild asparagus. After 5 minutes of chatting they invited us to stay with them and we spent a wonderful two days with them and their family, relaxing, eating traditional Dalmatian food, hunting for wild asparagus and being shown around the beautiful Zadar city. They even named their baby tortoise Milly! It also gave us a chance to do a good sort and switch our wardrobes from winter to summer cycling apparel! It was an unbelievable kindness and we feel like we have made friends for life.
 
 ![Mios](assets/img/Mios.jpg) *The incredible Mios family (minus Toni) with little Josip*  
 
