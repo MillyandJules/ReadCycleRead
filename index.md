@@ -20,9 +20,9 @@ We are supporting and raising funds for the [**World Land Trust**](http://www.wo
 
 We are are aiming to raise £1 per mile ridden (£10,000)...  
 
-As of February 2019 we've cycled 9320 miles / 15000 kms through 24 countries and raised £4,000 - thank you!  
+As of April 2019 we've made it! We cycled over 11,000 miles / 17,800 kms through 27 countries and raised £10,300 ($NZD 20,000) - thank you!  
 
 For more information and to donate please visit our JustGiving page: 
-[**justgiving.com/fundraising/readcycleread**](https://www.justgiving.com/fundraising/readcycleread)  
+[**justgiving.com/fundraising/readcycleread**](https://www.justgiving.com/fundraising/readcycleread)
 
 
