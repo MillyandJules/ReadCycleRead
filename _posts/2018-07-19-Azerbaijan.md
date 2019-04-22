@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matsimi to Baku"
+title: "Matsimi to Baku - from the desert to the Caspian Sea"
 author: Milly Read
 date: 2018-07-19
 image: AzTea.jpg
