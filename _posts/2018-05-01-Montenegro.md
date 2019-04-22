@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kucista to Sukobin"
+title: "Kucista to Sukobin - A cyclist's paradise"
 author: Milly Read
 date: 2018-05-01
 image: MngSkadar.JPG
