@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bllatë e Sipërme to Trpejca"
+title: "Bllatë e Sipërme to Trpejca - Lake Ohrid and around"
 author: Milly Read
 date: 2018-05-07
 image: MkOhrid.JPG
