@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orléans to Basel"
+title: "Orléans to Basel - The joys of French canals"
 author: The Reads
 date: 2018-03-24
 image: CanalNivernais.JPG
