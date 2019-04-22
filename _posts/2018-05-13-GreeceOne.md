@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Karlovrisi to Karditsa"
+title: "Karlovrisi to Karditsa - The never-ending hills of Northern Greece"
 author: Milly Read
 date: 2018-05-13
 image: GRPoppy.jpg
