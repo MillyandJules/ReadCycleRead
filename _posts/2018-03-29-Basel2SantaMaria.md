@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Basel to Santa Maria"
+title: "Basel to Santa Maria - Let it snow, let it snow, let it snow"
 author: The Reads
 date: 2018-03-29
 image: Bergun.JPG
