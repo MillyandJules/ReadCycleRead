@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Setting Off"
+title: "Bosham to Portsmouth - Setting Off"
 author: The Reads
 date: 2018-03-07
 image: SettingOff.jpg
