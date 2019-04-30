@@ -15,6 +15,8 @@ The first surprise as we arrived in Taungoo was a youth hostel, the second was t
 
 Acommodation / camping options were however limited so we decided to try our luck at a monastery. Unbelievably the one in twenty we could have asked at turned out to be the same one our friends Daniel and Teresa had stayed at a few days earlier! It has a boarding school attached to it where the kids aged between 3 and 12 learnt monastic duties before and after school. Some of the children had been sent from miles away to learn the Buddhist ways first hand. The girls group helped us set up our tent, gave us dinner and then showed us all sorts of games including 'Dance, Sing, Model' a game which starts like Pass the Parcel except that when the music stops and you are holding the parcel you have to choose a piece of paper from the bowlist which will instruct you to either 'dance, sing, or model'!!! You can imagine a) how often the music seemed to stop on us, and b) how mortifying our acting/singing skills were! We had lots of fun, danced like I was 15 again and probably twisted my ankle as a result!
 
+![MYcRain](assets/img/MYcRain.jpg) *The locals getting geared up for the monsoon already!*
+
 ![MYbDosa](assets/img/MYbDosa.jpg) *I am salivating just looking at this cocout dosa!*
 
 ![MYcMonasteryKids](assets/img/MYcMonasteryKids.jpg) *I felt like I was back at boarding school!*
