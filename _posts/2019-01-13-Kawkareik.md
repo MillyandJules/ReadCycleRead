@@ -1,8 +1,8 @@
---
+---
 layout: post
 title: "Taungoo to Kawkareik - Marvellous monasteries"
 author: Milly Read
-date: 2019-01-07
+date: 2019-01-013
 image: MYcFarRiver.jpg
 tags: MY
 ---
