@@ -16,7 +16,7 @@ tags: FIN
 **No. days off the bike:** 65 rest days  
 **Distance cycled:** 17,877kms / 11,108 miles  
 **Average distance per day:** 64.5 kms   
-**Average no. cycling hours per day:** 5 hours a day (some days were much longer, other shorter!)  
+**Average no. cycling hours per day:** 5 hours a day (some days were much longer, others shorter!)  
 **Total Ascent:** 173,279 m - nearly 20x up Mt Everest!  
 
 **We slept -**  
