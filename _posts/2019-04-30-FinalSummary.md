@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "England to New Zealand - In Summary"
+title: "England to New Zealand - in Summary"
 author: The Reads
 date: 2019-04-30
 image: FinalRoute.JPG
@@ -9,7 +9,7 @@ tags: FIN
 
 *Our route - for more detail see: (http://readcycleread.bike/pages/map.html)*      
 
-***We cycled -***  
+**We cycled -**  
 
 **From:** Bosham, England to Wellington, New Zealand  
 **No. days on the bike:** 277 days cycling  
@@ -75,7 +75,7 @@ And FINALLY the total puncture tally:
 Not bad! 
 
 
-![](assets/img/.jpg)  
+![FinalPic](assets/img/FinalPic.jpg)  
 
 
 
