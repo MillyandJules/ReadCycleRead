@@ -22,7 +22,7 @@ tags: FIN
 **We slept -**  
 
 **Tent:** 181 nights  
-**Hostels/Guesthouses/Hotels/Hovels:** 78 nights
+**Hostels/Guesthouses/Hotels/Hovels:** 78 nights  
 **Ferry:** 1 night  
 **Train:** 1 night  
 **Warmshowers:** 35 nights  
