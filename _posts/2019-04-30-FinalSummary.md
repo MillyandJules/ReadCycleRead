@@ -7,32 +7,33 @@ image: FinalRoute.JPG
 tags: FIN    
 ---
 
-*Our route - for more detail see: (http://readcycleread.bike/pages/map.html)    
+*Our route - for more detail see: (http://readcycleread.bike/pages/map.html)*      
 
-**We cycled -**  
+***We cycled -***  
 
 **From:** Bosham, England to Wellington, New Zealand  
-**No. days on the bike:**
-**No. days off the bike:**
-**Distance cycled:**
-**Average distance per day:**
-**Average no. cycling hours per day:**
-**Total Ascent:** 
+**No. days on the bike:** 277 days cycling  
+**No. days off the bike:** 65 rest days  
+**Distance cycled:** 17,877kms / 11,108 miles  
+**Average distance per day:** 64.5 kms   
+**Average no. cycling hours per day:** 5 hours a day (some days were much longer, other shorter!)  
+**Total Ascent:** 173,279 m - nearly 20x up Mt Everest!  
 
 **We slept -**  
 
-**Tent:**  
-**Hostels/Guesthouses/Hotels/Hovels:**  
-**Ferry:**  
-**Warmshowers:**  
-**Invited to stay by a local:**  
+**Tent:** 181 nights  
+**Hostels/Guesthouses/Hotels/Hovels:** 78 nights
+**Ferry:** 1 night  
+**Train:** 1 night  
+**Warmshowers:** 35 nights  
+**Invited to stay by a local:**  11 nights  
+**With family & friends (NZ only)**: 20 nights  
 
 We are eternally grateful to the people we met along the way who fed us and quenched our thirst on many occasions. Particular thanks goes to the kindness of those on [**Warmshowers**](https://www.warmshowers.org) and the few locals we met who invited us into their home for the evening, often at short notice, and never expected anything in retun.  We will continue to 'pay it forward' with generosity and kindness to others.  
 
 **We spent-**  
 
-
-**Average cost per day-**  
+**Average cost per day-**  £30 (including food, accommodation and transport costs for 2 people)  
 
 **We fundraised -**  
 
@@ -68,13 +69,13 @@ Whilst not 'broken' we both received a new pair of bike shorts at Christmas and 
 
 And FINALLY the total puncture tally:  
 
-Jules: 2  (although one was a worn out inner tube valve)  
-Milly: 1   
+**Jules**: 2  (although one was a worn out inner tube valve)  
+**Milly**: 1   
 
 Not bad! 
 
 
-
+![](assets/img/.jpg)  
 
 
 
