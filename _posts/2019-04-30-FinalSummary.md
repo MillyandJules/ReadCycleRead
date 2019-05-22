@@ -33,7 +33,7 @@ We are eternally grateful to the people we met along the way who fed us and quen
 
 **We spent-**  
 
-**Average cost per day-**  £30 (including food, accommodation and transport costs for 2 people)  
+**Average cost per day-**  £30 (including food, accommodation, visas and transport costs for 2 people)  
 
 **We fundraised -**  
 
