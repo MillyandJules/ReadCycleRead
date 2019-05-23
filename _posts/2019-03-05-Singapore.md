@@ -56,4 +56,3 @@ We took in the beautiful sights around the city - it's world famous Botanic Gard
 ![SGaBabyHighrises](assets/img/SGaBabyHighrises.jpg) *An impressive sculpture in Gardens by the Bay West*   
 
 ![SGaChangi](assets/img/SGaChangi.jpg) *Cycle touring has its pitfalls - boxing everything up has to be one of the worst*  
-
