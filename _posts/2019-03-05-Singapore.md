@@ -4,7 +4,7 @@ title: "Singapore - Modernity across the water from Malaysia"
 author: Jules Read
 date: 2019-03-01
 image: SGaFlag.jpg
-tags: SG
+tags: SIN
 ---
 
 **The End of the Road - the Eurasian Limit**
