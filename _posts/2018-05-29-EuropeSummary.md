@@ -6,6 +6,9 @@ date: 2018-05-29
 image: EuropeMap.png
 tags: EU    
 ---
+
+*The green line denotes where we have cycled and the blue lines where we took ferries. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled:**  
 From: Bosham, UK to Rhodes, Greece  
 No. days on the bike:  75 days  
