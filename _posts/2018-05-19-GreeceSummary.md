@@ -7,6 +7,8 @@ image: GreeceMap.png
 tags: GR  
 ---
 
+*The green line denotes where we have cycled and the blue lines where we took ferries. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**  
 From: Kalovrisi to Rhodes    
 No. days:  17 + 3 rest days  
