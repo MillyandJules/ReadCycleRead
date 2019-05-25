@@ -7,6 +7,8 @@ image: MontenegroMap.png
 tags: MNG  
 ---
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**  
 From: Kucista to Sukobin  
 No. days: 3 + 1 rest day  
