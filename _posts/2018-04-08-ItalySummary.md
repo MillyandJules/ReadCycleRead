@@ -7,6 +7,8 @@ image: ItalyMap.png
 tags: IT
 ---
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**:  
   From: Müstair to Erlbach  
   No. days: 4 + 1 rest day  
