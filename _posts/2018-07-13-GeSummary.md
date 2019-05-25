@@ -7,6 +7,8 @@ image: GeorgiaMap.png
 tags: GE
 ---
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**  
 From: Aktas Sinir Kapisi to Matsimi  
 No. days: 12 days (including 3 rest days in Tblisi)  
