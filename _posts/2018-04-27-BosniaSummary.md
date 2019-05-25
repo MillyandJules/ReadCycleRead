@@ -7,6 +7,8 @@ image: BosniaMap.png
 tags: BIH  
 ---
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**:  
   From: Ivanica to Kucista    
   No. days: 1  
