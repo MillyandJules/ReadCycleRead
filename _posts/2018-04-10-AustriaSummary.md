@@ -7,6 +7,8 @@ image: AustriaMap.png
 tags: AU
 ---
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**:  
   From: Erlbach to Wurzenpass  
   No. days: 2  
