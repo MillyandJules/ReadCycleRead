@@ -7,6 +7,8 @@ image: AlbaniaMap.png
 tags: AL  
 ---
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**  
 From: Sukobin to Kalovrisi (via Macedonia)  
 No. days: 6 + 1 rest day  
