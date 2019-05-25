@@ -7,6 +7,8 @@ image: CroatiaMap.png
 tags: HR
 ---
 
+*The green line denotes where we have cycled and the blue line where we took a ferry. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**:  
   From: Babno Polje to Ivanica   
   No. days: 11 + 1 rest day  
