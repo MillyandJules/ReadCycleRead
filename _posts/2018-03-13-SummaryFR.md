@@ -7,6 +7,8 @@ image: FranceMap.png
 tags: France
 ---
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**:  
   From: St Malo to Basel  
   No. days: 15 + 1 rest day  
