@@ -7,6 +7,8 @@ image: MacedoniaMap.png
 tags: MK  
 ---
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**  
 From: Bllatë e Sipërme to Sveti Naum  
 No. days: 2  
