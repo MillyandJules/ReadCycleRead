@@ -7,6 +7,8 @@ image: SloveniaMap.png
 tags: SL
 ---
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**:  
   From: Wurzenpass to Babno Polje  
   No. days: 3 + 1 rest day  
