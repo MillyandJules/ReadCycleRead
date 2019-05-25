@@ -7,6 +7,8 @@ image: AzerMap.png
 tags: AZ
 ---  
 
+*The green line denotes where we have cycled. See our [Route](http://readcycleread.bike/pages/map.html) page for more detail* 
+
 **We cycled**  
 From: Lagodeki to Baku  
 No. days: 7 days (we then spent 2 days exploring Baku before flying back to the UK)  
