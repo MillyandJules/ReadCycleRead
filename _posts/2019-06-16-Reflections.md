@@ -4,7 +4,7 @@ title: "Reflections"
 author: The Reads
 date: 2019-06-16
 image: 
-tags: FI    
+tags: FIN
 ---
 
 It's now been two months since we arrived back in Wellington. The first week was a blur, that fun, friendly feeling of being surrounded by family and old firends in the lead up to Easter weekend was good, it felt like a holiday. Week two was harder, reality set in, our boxes arrived - all 34 of them - roughly 140 cubic feet worth of clothes, shoes, books, niknaks - stuff that we'd managed to live so happily without for a year and then suddenly found ourselves needing in order to fit back into 'normal life' whatever that might be. At first it was fun unpacking, a little like Christmas, peeking open the corners of parcels wrapped in brown paper. Then we got onto the clothes boxes - joy oh joy to have more than a choice of one jumper and a pair of leggings to wear! Joy, soon turned to discomfort - do I really need ten jumpers? The charity pile grew...
