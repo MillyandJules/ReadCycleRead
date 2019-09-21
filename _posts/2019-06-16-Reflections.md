@@ -3,7 +3,7 @@ layout: post
 title: "Reflections"
 author: The Reads
 date: 2019-06-16
-image: FILake 
+image: FILake.jpg 
 tags: FIN   
 ---
 
