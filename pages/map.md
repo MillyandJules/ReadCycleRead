@@ -9,9 +9,9 @@ title: Our Route from UK to New Zealand
 
   The green line above shows the actual route travelled (click on the map for full key).  
   
-  To see our most recent progress & for more stats and photos check out our [**Strava**](https://www.strava.com/athletes/readcycleread) page.  
+  For more stats and photos check out our [**Strava**](https://www.strava.com/athletes/readcycleread) page.  
 
-  Below is a rough outline for where we aim to be, and when: 
+  Below is a rough outline of where we aimed to be, and when (before setting off): 
   
   **Part 1 (2018)**
   
