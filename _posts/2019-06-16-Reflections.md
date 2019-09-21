@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reflections"
+title: "Reflecting on the Journey"
 author: The Reads
 date: 2019-06-16
 image: FILake.jpg 
