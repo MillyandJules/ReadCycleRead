@@ -3,7 +3,7 @@ layout: misc
 title: Contact
 ---
 
-We'd love to hear from you whether you're planning a similar trip, en route nearby, or just want to say hi!
+We'd love to hear from you whether you're planning a similar trip, or just want to say hi!
 
 You can leave comments on the blog posts or contact us via:  
 
@@ -12,7 +12,7 @@ You can leave comments on the blog posts or contact us via:
 **Twitter** - @millyreado  
 [**Strava**](https://www.strava.com/athletes/readcycleread) - @readcycleread 
 
-To find out more about why we are raising money for the [**World Land Trust**](http://www.worldlandtrust.org/) and/or to make a donation please visit our JustGiving page:  
+To find out more about why we are raising money for the [**World Land Trust**](http://www.worldlandtrust.org/) please visit our JustGiving page:  
 
 [**justgiving.com/fundraising/readcycleread**](https://www.justgiving.com/fundraising/readcycleread)
 
